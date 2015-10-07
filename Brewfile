@@ -17,6 +17,7 @@ cask xquartz
 
 ## caskroom/versions
 tap caskroom/versions
+cask firefox-beta-ja
 
 ## homebrew/binary
 tap homebrew/binary
@@ -139,8 +140,3 @@ appstore Twitter
 appstore Wunderlist
 appstore Xcode
 appstore Yummy FTP
-
-# Other commands
-invisible
-omni_completion
-PrevimSettings
