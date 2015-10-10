@@ -105,6 +105,7 @@ appstore Blackmagic Disk Speed Test
 appstore Briqs
 appstore Bubble Browser
 appstore CloudClip Manager
+appstore CodePiece
 appstore CotEditor
 appstore DeskConnect
 appstore DM1
