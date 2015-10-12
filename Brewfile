@@ -106,6 +106,7 @@ appstore Briqs
 appstore Bubble Browser
 appstore CloudClip Manager
 appstore CodePiece
+appstore Commander One
 appstore CotEditor
 appstore DeskConnect
 appstore DM1
