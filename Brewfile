@@ -126,7 +126,6 @@ appstore Memory Clean
 appstore Notebooks
 appstore OneDrive
 appstore Pinger
-appstore Pixelmator
 appstore Pocket
 appstore PopClip
 appstore Pushbullet
