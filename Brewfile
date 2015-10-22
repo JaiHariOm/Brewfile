@@ -126,6 +126,7 @@ appstore Memory Clean
 appstore Notebooks
 appstore OneDrive
 appstore Pinger
+appstore Pixelmator
 appstore Pocket
 appstore PopClip
 appstore Pushbullet
@@ -137,7 +138,6 @@ appstore Textwell
 appstore TextWrangler
 appstore The Unarchiver
 appstore Trunx Uploader
-appstore Tweak and Tuneup
 appstore Twitter
 appstore Wunderlist
 appstore Xcode
