@@ -65,6 +65,7 @@ brew hicolor-icon-theme
 brew hub
 brew icu4c
 brew ilmbase
+brew imagemagick --with-x11
 brew intltool
 brew jpeg
 brew libevent
