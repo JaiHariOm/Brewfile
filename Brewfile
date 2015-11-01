@@ -111,6 +111,7 @@ appstore CotEditor
 appstore DeskConnect
 appstore DM1
 appstore DrCleaner
+appstore Enigma
 appstore Evernote
 appstore Freeway Express AS
 appstore GarageBand
