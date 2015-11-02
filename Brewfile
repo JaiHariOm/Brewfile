@@ -64,12 +64,13 @@ brew hicolor-icon-theme
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11
+brew imagemagick --with-x11 --with-x11
 brew intltool
 brew jpeg
 brew libevent
 brew libffi
 brew libpng
+brew libsodium
 brew libtiff
 brew libtool
 brew libyaml
@@ -105,7 +106,6 @@ appstore Blackmagic Disk Speed Test
 appstore Briqs
 appstore Bubble Browser
 appstore CloudClip Manager
-appstore CodePiece
 appstore Commander One PRO
 appstore CotEditor
 appstore DeskConnect
