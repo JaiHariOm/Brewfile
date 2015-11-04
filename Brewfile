@@ -32,6 +32,7 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
+brew brew-file
 
 ## sanemat/font
 tap sanemat/font
