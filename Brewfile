@@ -12,12 +12,17 @@ cask google-chrome
 cask google-drive
 cask java
 cask kobito
+cask malwarebytes-anti-malware
 cask vlc
 cask xquartz
 
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-beta-ja
+
+## coteditor/coteditor
+tap coteditor/coteditor
+brew cot
 
 ## homebrew/binary
 tap homebrew/binary
