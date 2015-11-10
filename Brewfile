@@ -10,8 +10,8 @@ cask firefox
 cask flux
 cask google-chrome
 cask google-drive
+cask google-photos-backup
 cask java
-cask kobito
 cask malwarebytes-anti-malware
 cask vlc
 cask xquartz
