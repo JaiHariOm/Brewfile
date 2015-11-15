@@ -146,6 +146,7 @@ appstore TextWrangler
 appstore The Unarchiver
 appstore Trunx Uploader
 appstore Twitter
+appstore VOX
 appstore Wunderlist
 appstore Xcode
 appstore Yummy FTP
