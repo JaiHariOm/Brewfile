@@ -70,7 +70,7 @@ brew hicolor-icon-theme
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11
+brew imagemagick --with-x11 --with-x11
 brew intltool
 brew jpeg
 brew libevent
@@ -137,6 +137,7 @@ appstore Pixelmator
 appstore Pocket
 appstore PopClip
 appstore Pushbullet
+appstore RB App Checker Lite
 appstore Revisions
 appstore Simplenote
 appstore Skitch
