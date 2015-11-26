@@ -137,6 +137,7 @@ appstore Pixelmator
 appstore Pocket
 appstore PopClip
 appstore Pushbullet
+appstore QuickShot
 appstore RB App Checker Lite
 appstore Revisions
 appstore Simplenote
