@@ -111,6 +111,7 @@ appstore BitdefenderVirusScanner
 appstore Blackmagic Disk Speed Test
 appstore Briqs
 appstore Bubble Browser
+appstore Capo
 appstore CloudClip Manager
 appstore Commander One PRO
 appstore CotEditor
@@ -121,6 +122,7 @@ appstore Enigma
 appstore Evernote
 appstore Freeway Express AS
 appstore GarageBand
+appstore Hang
 appstore iMovie
 appstore Instashare
 appstore iQuickMark
