@@ -105,6 +105,7 @@ brew zsh --without-etcdir
 brew zsh-completions
 
 # App Store applications
+appstore Alternote
 appstore Apps on Sale
 appstore Bandwidth+
 appstore BitdefenderVirusScanner
