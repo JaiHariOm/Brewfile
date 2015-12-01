@@ -70,7 +70,7 @@ brew hicolor-icon-theme
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11 --with-x11
+brew imagemagick --with-x11
 brew intltool
 brew jpeg
 brew libevent
@@ -135,6 +135,8 @@ appstore Letterspace
 appstore Memory Clean
 appstore Notebooks
 appstore OneDrive
+appstore Particulars
+appstore Photo & Video HDR
 appstore Pinger
 appstore Pixelmator
 appstore Pocket
