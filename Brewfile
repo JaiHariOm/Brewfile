@@ -13,6 +13,7 @@ cask google-drive
 cask google-photos-backup
 cask java
 cask malwarebytes-anti-malware
+cask simplecap
 cask vlc
 cask xquartz
 
@@ -91,6 +92,7 @@ brew pkg-config
 brew python
 brew readline
 brew reattach-to-user-namespace
+brew rmtrash
 brew sqlite
 brew the_silver_searcher
 brew tig
@@ -156,4 +158,5 @@ appstore Twitter
 appstore VOX
 appstore Wunderlist
 appstore Xcode
+appstore Yummy FTP Watcher
 appstore Yummy FTP
