@@ -103,7 +103,7 @@ brew vimpager
 brew wget
 brew xz
 brew zeromq
-brew zsh --without-etcdir
+brew zsh --without-etcdir --without-etcdir
 brew zsh-completions
 
 # App Store applications
