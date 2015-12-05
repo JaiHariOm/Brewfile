@@ -11,6 +11,7 @@ cask flux
 cask google-chrome
 cask google-drive
 cask google-photos-backup
+cask inkscape
 cask java
 cask malwarebytes-anti-malware
 cask simplecap
@@ -103,7 +104,7 @@ brew vimpager
 brew wget
 brew xz
 brew zeromq
-brew zsh --without-etcdir --without-etcdir
+brew zsh --without-etcdir
 brew zsh-completions
 
 # App Store applications
@@ -123,6 +124,7 @@ appstore DM1
 appstore DrCleaner
 appstore Enigma
 appstore Evernote
+appstore Flaticon
 appstore Freeway Express AS
 appstore GarageBand
 appstore Hang
@@ -138,6 +140,7 @@ appstore Memory Clean
 appstore Notebooks
 appstore OneDrive
 appstore Particulars
+appstore Patina
 appstore Photo & Video HDR
 appstore Pinger
 appstore Pixelmator
