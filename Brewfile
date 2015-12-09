@@ -72,7 +72,7 @@ brew hicolor-icon-theme
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11 --with-x11
+brew imagemagick --with-x11
 brew intltool
 brew jpeg
 brew libevent
@@ -115,6 +115,7 @@ appstore BitdefenderVirusScanner
 appstore Blackmagic Disk Speed Test
 appstore Briqs
 appstore Bubble Browser
+appstore Buffet
 appstore Capo
 appstore CloudClip Manager
 appstore Commander One PRO
