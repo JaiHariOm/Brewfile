@@ -117,6 +117,8 @@ appstore Briqs
 appstore Bubble Browser
 appstore Buffet
 appstore Capo
+appstore City Classical
+appstore CleanMyDrive 2
 appstore CloudClip Manager
 appstore Commander One PRO
 appstore CotEditor
@@ -133,6 +135,7 @@ appstore iMovie
 appstore Instashare
 appstore iQuickMark
 appstore iRamDisk
+appstore Keynote
 appstore Kobito
 appstore LadioCast
 appstore LanScan
@@ -140,6 +143,7 @@ appstore Letterspace
 appstore Memory Clean
 appstore Notebooks
 appstore OneDrive
+appstore Pages
 appstore Particulars
 appstore Patina
 appstore Photo & Video HDR
@@ -154,6 +158,7 @@ appstore Revisions
 appstore Simplenote
 appstore Skitch
 appstore StuffIt Expander
+appstore Syte
 appstore Textwell
 appstore TextWrangler
 appstore The Unarchiver
