@@ -20,7 +20,6 @@ cask xquartz
 
 ## caskroom/versions
 tap caskroom/versions
-## cask firefox-beta-ja
 
 ## coteditor/coteditor
 tap coteditor/coteditor
