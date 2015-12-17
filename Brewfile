@@ -145,6 +145,7 @@ appstore Notebooks
 appstore OneDrive
 appstore Pages
 appstore Particulars
+appstore Paste
 appstore Patina
 appstore Photo & Video HDR
 appstore Pinger
