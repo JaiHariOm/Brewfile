@@ -3,7 +3,6 @@
 
 ## caskroom/cask
 tap caskroom/cask
-brew brew-cask
 cask alfred
 cask amethyst
 cask firefox
