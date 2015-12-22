@@ -70,7 +70,7 @@ brew hicolor-icon-theme
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11
+brew imagemagick --with-x11 --with-x11
 brew intltool
 brew jpeg
 brew libevent
@@ -159,7 +159,6 @@ appstore Skitch
 appstore StuffIt Expander
 appstore Syte
 appstore Textwell
-appstore TextWrangler
 appstore The Unarchiver
 appstore Trunx Uploader
 appstore Twitter
