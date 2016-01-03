@@ -47,6 +47,7 @@ brew ansible
 brew atk
 brew autoconf
 brew automake
+brew bash
 brew cairo
 brew cmatrix
 brew czmq
