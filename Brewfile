@@ -41,68 +41,33 @@ brew brew-file
 
 ## sanemat/font
 tap sanemat/font
-brew ricty --powerline --vim-powerline
 
 # Other Homebrew packages
-brew ansible
-brew atk
-brew autoconf
-brew automake
 brew cairo
-brew cmatrix
 brew czmq
-brew fftw
 brew fontconfig
 brew fontforge
 brew freetype
 brew gdbm
-brew gdk-pixbuf
 brew gettext
-brew gist
 brew git
-brew git-flow
 brew glib
 brew gobject-introspection
-brew gtk+
-brew gtk-engines
 brew harfbuzz
-brew hicolor-icon-theme
 brew hub
 brew icu4c
-brew ilmbase
-brew imagemagick --with-x11
-brew intltool
 brew jpeg
-brew libevent
 brew libffi
 brew libpng
 brew libsodium
 brew libtiff
 brew libtool
-brew libyaml
-brew nkf
-brew openexr
-brew openssl
 brew pango
 brew pcre
-brew peco
 brew pixman
 brew pkg-config
-brew python
-brew readline
-brew reattach-to-user-namespace
-brew rmtrash
-brew sqlite
-brew the_silver_searcher
-brew tig
-brew tmux
-brew tree
-brew vim
-brew vimpager
-brew wget
-brew xz
 brew zeromq
-brew zsh --without-etcdir
+brew zsh
 brew zsh-completions
 
 # App Store applications
