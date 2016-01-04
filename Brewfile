@@ -52,6 +52,7 @@ brew cairo
 brew cmatrix
 brew czmq
 brew fftw
+brew fish
 brew fontconfig
 brew fontforge
 brew freetype
@@ -81,6 +82,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew nkf
+brew node --with-full-icu
 brew openexr
 brew openssl
 brew pango
@@ -89,9 +91,11 @@ brew peco
 brew pixman
 brew pkg-config
 brew python
+brew rbenv
 brew readline
 brew reattach-to-user-namespace
 brew rmtrash
+brew ruby-build
 brew sqlite
 brew the_silver_searcher
 brew tig
