@@ -13,6 +13,7 @@ cask google-photos-backup
 cask inkscape
 cask java
 cask malwarebytes-anti-malware
+cask onyx
 cask simplecap
 cask vlc
 cask xquartz
