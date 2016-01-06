@@ -128,6 +128,7 @@ appstore CotEditor
 appstore DeskConnect
 appstore DM1
 appstore DrCleaner
+appstore EasyFind
 appstore Enigma
 appstore Evernote
 appstore Flaticon
@@ -166,7 +167,6 @@ appstore Syte
 appstore Textwell
 appstore The Unarchiver
 appstore Trunx Uploader
-appstore Twitter
 appstore VOX
 appstore Wunderlist
 appstore Xcode
