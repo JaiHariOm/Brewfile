@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 cask alfred
 cask amethyst
@@ -18,29 +17,22 @@ cask simplecap
 cask vlc
 cask xquartz
 
-## caskroom/versions
 tap caskroom/versions
 
-## coteditor/coteditor
 tap coteditor/coteditor
 brew cot
 
-## homebrew/binary
 tap homebrew/binary
 
-## homebrew/dupes
 tap homebrew/dupes
 brew grep
 brew groff
 
-## homebrew/versions
 tap homebrew/versions
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
-## sanemat/font
 tap sanemat/font
 
 # Other Homebrew packages
@@ -83,7 +75,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew nkf
-brew node --with-full-icu
+brew node --with-full-icu --with-full-icu
 brew openexr
 brew openssl
 brew pango
