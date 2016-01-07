@@ -34,6 +34,7 @@ tap rcmdnk/file
 brew brew-file
 
 tap sanemat/font
+brew ricty
 
 # Other Homebrew packages
 brew ansible
