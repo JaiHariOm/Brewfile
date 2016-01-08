@@ -4,7 +4,6 @@
 tap caskroom/cask
 cask alfred
 cask amethyst
-cask firefox
 cask flux
 cask google-chrome
 cask google-drive
@@ -18,6 +17,7 @@ cask vlc
 cask xquartz
 
 tap caskroom/versions
+cask firefox-ja
 
 tap coteditor/coteditor
 brew cot
