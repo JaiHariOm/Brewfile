@@ -160,6 +160,7 @@ appstore Textwell
 appstore The Unarchiver
 appstore Trunx Uploader
 appstore VOX
+appstore WinArchiver Lite
 appstore Wunderlist
 appstore Xcode
 appstore Yummy FTP Watcher
