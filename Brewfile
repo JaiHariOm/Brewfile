@@ -76,7 +76,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew nkf
-brew node --with-full-icu
+brew node --with-full-icu --with-full-icu
 brew openexr
 brew openssl
 brew pango
@@ -115,6 +115,7 @@ appstore Capo
 appstore City Classical
 appstore CleanMyDrive 2
 appstore CloudClip Manager
+appstore ColorDial
 appstore Commander One PRO
 appstore CotEditor
 appstore DeskConnect
