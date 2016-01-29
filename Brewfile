@@ -160,6 +160,7 @@ appstore Syte
 appstore Textwell
 appstore The Unarchiver
 appstore Trunx Uploader
+appstore Twitter
 appstore VOX
 appstore WinArchiver Lite
 appstore Wunderlist
