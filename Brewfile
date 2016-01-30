@@ -104,6 +104,7 @@ brew zsh
 brew zsh-completions
 
 # App Store applications
+appstore AirBrowser
 appstore Alternote
 appstore Apps on Sale
 appstore Bandwidth+
