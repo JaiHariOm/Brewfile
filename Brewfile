@@ -116,6 +116,7 @@ appstore Capo
 appstore City Classical
 appstore CleanMyDrive 2
 appstore CloudClip Manager
+appstore CodePiece
 appstore ColorDial
 appstore Commander One PRO
 appstore CotEditor
