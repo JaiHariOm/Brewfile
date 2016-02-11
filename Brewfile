@@ -65,7 +65,7 @@ brew hicolor-icon-theme
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11
+brew imagemagick --with-x11 --with-x11
 brew intltool
 brew jpeg
 brew libevent
@@ -76,7 +76,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew nkf
-brew node --with-full-icu --with-full-icu
+brew node --with-full-icu
 brew openexr
 brew openssl
 brew pango
