@@ -36,6 +36,9 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
+tap argon/mas
+brew mas
+
 # Other Homebrew packages
 brew ansible
 brew atk
