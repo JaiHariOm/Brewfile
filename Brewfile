@@ -12,11 +12,13 @@ cask google-chrome
 cask google-drive
 cask google-photos-backup
 cask inkscape
+cask iterm2
 cask java
 cask malwarebytes-anti-malware
 cask onyx
 cask simplecap
 cask vlc
+cask xmind
 cask xquartz
 
 tap caskroom/versions
