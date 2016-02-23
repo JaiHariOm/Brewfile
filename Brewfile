@@ -107,3 +107,71 @@ brew xz
 brew zeromq
 brew zsh
 brew zsh-completions
+
+# App Store applications
+appstore 948620309 AirBrowser
+appstore 974971992 Alternote
+appstore 448002467 Apps on Sale
+appstore 490461369 Bandwidth+
+appstore 500154009 BitdefenderVirusScanner
+appstore 425264550 Blackmagic Disk Speed Test
+appstore 657791564 Briqs
+appstore 545988675 Bubble Browser
+appstore 696977615 Capo
+appstore 957147922 City Classical
+appstore 523620159 CleanMyDrive 2
+appstore 563362017 CloudClip Manager
+appstore 1021284423 CodePiece
+appstore 1064152481 ColorDial
+appstore 1035237815 Commander One PRO
+appstore 1024640650 CotEditor
+appstore 522349879 DM1
+appstore 642220194 DeskConnect
+appstore 921458519 DrCleaner
+appstore 411673888 EasyFind
+appstore 527555438 Enigma
+appstore 406056744 Evernote
+appstore 1080403671 Falling Hearts
+appstore 1042588206 Flaticon
+appstore 417976220 Freeway Express AS
+appstore 682658836 GarageBand
+appstore 1050779754 Hang
+appstore 685953216 Instashare
+appstore 409183694 Keynote
+appstore 896624060 Kobito
+appstore 411213048 LadioCast
+appstore 472226235 LanScan
+appstore 950145466 Letterspace
+appstore 451444120 Memory Clean
+appstore 862961526 Notebooks
+appstore 823766827 OneDrive
+appstore 409201541 Pages
+appstore 885120167 Particulars
+appstore 967805235 Paste
+appstore 942568098 Patina
+appstore 951110823 Photo & Video HDR
+appstore 594914846 Pinger
+appstore 407963104 Pixelmator
+appstore 568494494 Pocket
+appstore 445189367 PopClip
+appstore 948415170 Pushbullet
+appstore 965442961 QuickShot
+appstore 519421117 RB App Checker Lite
+appstore 819348619 Revisions
+appstore 692867256 Simplenote
+appstore 425955336 Skitch
+appstore 405580712 StuffIt Expander
+appstore 978408712 Syte
+appstore 905944937 Textwell
+appstore 425424353 The Unarchiver
+appstore 787013995 Trunx Uploader
+appstore 409789998 Twitter
+appstore 461369673 VOX
+appstore 414855915 WinArchiver Lite
+appstore 410628904 Wunderlist
+appstore 497799835 Xcode
+appstore 492068728 Yummy FTP
+appstore 530461386 Yummy FTP Watcher
+appstore 408981434 iMovie
+appstore 765282854 iQuickMark
+appstore 492615400 iRamDisk
