@@ -81,7 +81,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew nkf
-brew node --with-full-icu --with-full-icu
+brew node --with-full-icu
 brew openexr
 brew openssl
 brew pango
