@@ -7,6 +7,7 @@ brew mas
 tap caskroom/cask
 cask alfred
 cask amethyst
+cask finicky
 cask flux
 cask google-chrome
 cask google-drive
