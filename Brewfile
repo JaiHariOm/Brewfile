@@ -116,6 +116,7 @@ appstore 448002467 Apps on Sale
 appstore 490461369 Bandwidth+
 appstore 500154009 BitdefenderVirusScanner
 appstore 425264550 Blackmagic Disk Speed Test
+appstore 955293604 Blik
 appstore 657791564 Briqs
 appstore 1081203896 BrowserHub
 appstore 545988675 Bubble Browser
