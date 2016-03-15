@@ -139,8 +139,10 @@ appstore 1042588206 Flaticon
 appstore 417976220 Freeway Express AS
 appstore 1081413713 GIF Brewery 3
 appstore 682658836 GarageBand
+appstore 1088981453 Glass
 appstore 1050779754 Hang
 appstore 685953216 Instashare
+appstore 934011232 Jeff
 appstore 409183694 Keynote
 appstore 896624060 Kobito
 appstore 411213048 LadioCast
