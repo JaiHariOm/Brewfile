@@ -29,19 +29,7 @@ brew cot
 
 tap homebrew/binary
 
-tap homebrew/dupes
-brew grep
-brew groff
-
-tap homebrew/versions
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-brew ricty
-
-# Other Homebrew packages
+tap homebrew/core
 brew ansible
 brew atk
 brew autoconf
@@ -59,15 +47,13 @@ brew gdbm
 brew gdk-pixbuf
 brew gettext
 brew gist
-brew git
 brew git-flow
-brew glib
+brew git
 brew gobject-introspection
 brew gtk+
 brew gtk-engines
 brew harfbuzz
 brew hicolor-icon-theme
-brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick --with-x11
@@ -81,8 +67,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew nkf
-brew node --with-full-icu --with-full-icu
-brew openexr
+brew node --with-full-icu
 brew openssl
 brew pango
 brew pcre
@@ -96,17 +81,34 @@ brew reattach-to-user-namespace
 brew rmtrash
 brew ruby-build
 brew sqlite
-brew the_silver_searcher
 brew tig
 brew tmux
 brew tree
 brew vim
-brew vimpager
 brew wget
 brew xz
 brew zeromq
-brew zsh
 brew zsh-completions
+brew zsh
+
+tap homebrew/dupes
+brew grep
+brew groff
+
+tap homebrew/versions
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+brew ricty
+
+# Other Homebrew packages
+brew glib
+brew hub
+brew openexr
+brew the_silver_searcher
+brew vimpager
 
 # App Store applications
 appstore 948620309 AirBrowser
