@@ -119,7 +119,7 @@ appstore 500154009 BitdefenderVirusScanner
 appstore 425264550 Blackmagic Disk Speed Test
 appstore 955293604 Blik
 appstore 657791564 Briqs
-appstore 1081203896 BrowserHub
+appstore 1081203896 BrowserFreedom
 appstore 545988675 Bubble Browser
 appstore 696977615 Capo
 appstore 957147922 City Classical
