@@ -139,6 +139,7 @@ appstore 1080403671 Falling Hearts
 appstore 1042588206 Flaticon
 appstore 417976220 Freeway Express AS
 appstore 1081413713 GIF Brewery 3
+appstore 668208984 GIPHY CAPTURE
 appstore 682658836 GarageBand
 appstore 1088981453 Glass
 appstore 1050779754 Hang
