@@ -135,6 +135,7 @@ appstore 921458519 DrCleaner
 appstore 411673888 EasyFind
 appstore 527555438 Enigma
 appstore 406056744 Evernote
+appstore 1099120373 Exporter
 appstore 1080403671 Falling Hearts
 appstore 1042588206 Flaticon
 appstore 417976220 Freeway Express AS
