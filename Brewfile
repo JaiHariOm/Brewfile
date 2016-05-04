@@ -56,7 +56,7 @@ brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11
+brew imagemagick --with-x11 --with-x11
 brew intltool
 brew jpeg
 brew libevent
