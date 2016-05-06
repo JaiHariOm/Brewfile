@@ -15,7 +15,6 @@ cask inkscape
 cask iterm2
 cask java
 cask malwarebytes-anti-malware
-cask onyx
 cask simplecap
 cask vlc
 cask xmind
@@ -56,7 +55,7 @@ brew harfbuzz
 brew hicolor-icon-theme
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11
+brew imagemagick
 brew intltool
 brew jpeg
 brew libevent
@@ -67,7 +66,7 @@ brew libtiff
 brew libtool
 brew libyaml
 brew nkf
-brew node --with-full-icu
+brew node
 brew openssl
 brew pango
 brew pcre
