@@ -49,11 +49,13 @@ brew gettext
 brew gist
 brew git-flow
 brew git
+brew glib
 brew gobject-introspection
 brew gtk+
 brew gtk-engines
 brew harfbuzz
 brew hicolor-icon-theme
+brew hub
 brew icu4c
 brew ilmbase
 brew imagemagick --with-x11
@@ -68,6 +70,7 @@ brew libtool
 brew libyaml
 brew nkf
 brew node --with-full-icu
+brew openexr
 brew openssl
 brew pango
 brew pcre
@@ -81,10 +84,12 @@ brew reattach-to-user-namespace
 brew rmtrash
 brew ruby-build
 brew sqlite
+brew the_silver_searcher
 brew tig
 brew tmux
 brew tree
 brew vim
+brew vimpager
 brew wget
 brew xz
 brew zeromq
@@ -102,13 +107,6 @@ brew brew-file
 
 tap sanemat/font
 brew ricty
-
-# Other Homebrew packages
-brew glib
-brew hub
-brew openexr
-brew the_silver_searcher
-brew vimpager
 
 # App Store applications
 appstore 948620309 AirBrowser
