@@ -74,6 +74,7 @@ brew openexr
 brew openssl
 brew pango
 brew pcre
+brew pcre2
 brew peco
 brew pixman
 brew pkg-config
