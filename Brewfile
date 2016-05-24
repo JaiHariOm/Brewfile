@@ -153,6 +153,7 @@ appstore 950145466 Letterspace
 appstore 451444120 Memory Clean
 appstore 862961526 Notebooks
 appstore 823766827 OneDrive
+appstore 1054519713 Open In
 appstore 409201541 Pages
 appstore 885120167 Particulars
 appstore 967805235 Paste
