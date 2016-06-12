@@ -5,24 +5,8 @@ tap argon/mas
 brew mas
 
 tap caskroom/cask
-cask alfred
-cask amethyst
-cask flux
-cask google-chrome
-cask google-drive
-cask google-photos-backup
-cask inkscape
-cask iterm2
-cask java
-cask malwarebytes-anti-malware
-cask simplecap
-cask vivaldi
-cask vlc
-cask xmind
-cask xquartz
 
 tap caskroom/versions
-cask firefox-ja
 
 tap coteditor/coteditor
 brew cot
