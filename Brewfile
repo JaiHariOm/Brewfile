@@ -109,18 +109,6 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
-# Cask applications
-cask   --caskroom=/opt/homebrew-cask/Caskroom
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask Warning: The default Caskroom location has moved to /usr/local/Caskroom.
-#cask 
-#cask Please migrate your Casks to the new location, or if you would like to keep your
-#cask Caskroom at /opt/homebrew-cask/Caskroom, add the following to your HOMEBREW_CASK_OPTS:
-#cask 
-
 # App Store applications
 appstore 948620309 AirBrowser
 appstore 974971992 Alternote
