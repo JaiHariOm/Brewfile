@@ -76,6 +76,7 @@ brew pango
 brew pcre
 brew pcre2
 brew peco
+brew perl
 brew pixman
 brew pkg-config
 brew python
@@ -84,6 +85,7 @@ brew readline
 brew reattach-to-user-namespace
 brew rmtrash
 brew ruby-build
+brew ruby
 brew sqlite
 brew the_silver_searcher
 brew tig
