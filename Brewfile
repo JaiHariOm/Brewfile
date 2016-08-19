@@ -36,8 +36,8 @@ brew cmatrix
 brew fftw
 brew fish
 brew gist
-brew git-flow
 brew git
+brew git-flow
 brew gtk-engines
 brew hub
 brew imagemagick --with-x11
@@ -58,8 +58,8 @@ brew tree
 brew vim
 brew vimpager
 brew wget
-brew zsh-completions
 brew zsh
+brew zsh-completions
 
 tap homebrew/dupes
 brew grep
