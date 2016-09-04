@@ -142,6 +142,7 @@ appstore 905944937 Textwell
 appstore 425424353 The Unarchiver
 appstore 787013995 Trunx Uploader
 appstore 409789998 Twitter
+appstore 461369673 VOX
 appstore 414855915 WinArchiver Lite
 appstore 410628904 Wunderlist
 appstore 497799835 Xcode
