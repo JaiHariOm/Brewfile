@@ -2,11 +2,67 @@
 # tap repositories and their packages
 
 tap argon/mas
-brew mas
 
 tap caskroom/cask
+
+tap caskroom/versions
+
+tap coteditor/coteditor
+
+tap homebrew/binary
+
+tap homebrew/core
+
+tap homebrew/dupes
+
+tap homebrew/versions
+
+tap rcmdnk/file
+
+tap sanemat/font
+
+# Other Homebrew packages
+brew ansible
+brew bash
+brew brew-file
+brew cmatrix
+brew cot
+brew fftw
+brew fish
+brew gist
+brew git
+brew git-flow
+brew grep
+brew groff
+brew gtk-engines
+brew hub
+brew imagemagick --with-x11
+brew mas
+brew nkf
+brew node --with-full-icu
+brew openexr
+brew peco
+brew perl
+brew python
+brew rbenv
+brew reattach-to-user-namespace
+brew ricty
+brew rmtrash
+brew ruby
+brew the_silver_searcher
+brew tig
+brew tmux
+brew tree
+brew vim
+brew vimpager
+brew wget
+brew zsh
+brew zsh-completions
+
+# Cask applications
 cask alfred
 cask amethyst
+cask firefox-ja
 cask flux
 cask google-chrome
 cask google-drive
@@ -20,58 +76,6 @@ cask vivaldi
 cask vlc
 cask xmind
 cask xquartz
-
-tap caskroom/versions
-cask firefox-ja
-
-tap coteditor/coteditor
-brew cot
-
-tap homebrew/binary
-
-tap homebrew/core
-brew ansible
-brew bash
-brew cmatrix
-brew fftw
-brew fish
-brew gist
-brew git
-brew git-flow
-brew gtk-engines
-brew hub
-brew imagemagick --with-x11
-brew nkf
-brew node --with-full-icu
-brew openexr
-brew peco
-brew perl
-brew python
-brew rbenv
-brew reattach-to-user-namespace
-brew rmtrash
-brew ruby
-brew the_silver_searcher
-brew tig
-brew tmux
-brew tree
-brew vim
-brew vimpager
-brew wget
-brew zsh
-brew zsh-completions
-
-tap homebrew/dupes
-brew grep
-brew groff
-
-tap homebrew/versions
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-brew ricty
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments
@@ -126,6 +130,7 @@ appstore 885120167 Particulars
 appstore 967805235 Paste
 appstore 942568098 Patina
 appstore 951110823 Photo & Video HDR
+appstore 787013995 Piccam Uploader
 appstore 594914846 Pinger
 appstore 407963104 Pixelmator
 appstore 568494494 Pocket
@@ -140,7 +145,6 @@ appstore 405580712 StuffIt Expander
 appstore 978408712 Syte
 appstore 905944937 Textwell
 appstore 425424353 The Unarchiver
-appstore 787013995 Trunx Uploader
 appstore 409789998 Twitter
 appstore 461369673 VOX
 appstore 414855915 WinArchiver Lite
