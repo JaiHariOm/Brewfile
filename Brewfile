@@ -2,67 +2,11 @@
 # tap repositories and their packages
 
 tap argon/mas
+brew mas
 
 tap caskroom/cask
-
-tap caskroom/versions
-
-tap coteditor/coteditor
-
-tap homebrew/binary
-
-tap homebrew/core
-
-tap homebrew/dupes
-
-tap homebrew/versions
-
-tap rcmdnk/file
-
-tap sanemat/font
-
-# Other Homebrew packages
-brew ansible
-brew bash
-brew brew-file
-brew cmatrix
-brew cot
-brew fftw
-brew fish
-brew gist
-brew git
-brew git-flow
-brew grep
-brew groff
-brew gtk-engines
-brew hub
-brew imagemagick --with-x11
-brew mas
-brew nkf
-brew node --with-full-icu
-brew openexr
-brew peco
-brew perl
-brew python
-brew rbenv
-brew reattach-to-user-namespace
-brew ricty
-brew rmtrash
-brew ruby
-brew the_silver_searcher
-brew tig
-brew tmux
-brew tree
-brew vim
-brew vimpager
-brew wget
-brew zsh
-brew zsh-completions
-
-# Cask applications
 cask alfred
 cask amethyst
-cask firefox-ja
 cask flux
 cask google-chrome
 cask google-drive
@@ -76,6 +20,61 @@ cask vivaldi
 cask vlc
 cask xmind
 cask xquartz
+
+tap caskroom/versions
+cask firefox-ja
+
+tap coteditor/coteditor
+brew cot
+
+tap homebrew/binary
+
+tap homebrew/core
+brew ansible
+brew bash
+brew cmatrix
+brew fftw
+brew fish
+brew gist
+brew git
+brew git-flow
+brew gtk-engines
+brew hub
+brew imagemagick --with-x11
+brew nkf
+brew node --with-full-icu
+brew openexr
+brew peco
+brew perl
+brew python
+brew rbenv
+brew reattach-to-user-namespace
+brew rmtrash
+brew ruby
+brew the_silver_searcher
+brew tig
+brew tmux
+brew tree
+brew vim
+brew vimpager
+brew wget
+brew zsh
+brew zsh-completions
+
+tap homebrew/dupes
+brew grep
+brew groff
+
+tap homebrew/versions
+
+tap keith/formulae
+brew reminders-cli
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+brew ricty
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments
@@ -122,6 +121,7 @@ appstore 411213048 LadioCast
 appstore 472226235 LanScan
 appstore 950145466 Letterspace
 appstore 451444120 Memory Clean
+appstore 1014850245 Monit
 appstore 862961526 Notebooks
 appstore 823766827 OneDrive
 appstore 1054519713 Open In
@@ -146,6 +146,7 @@ appstore 978408712 Syte
 appstore 905944937 Textwell
 appstore 425424353 The Unarchiver
 appstore 409789998 Twitter
+appstore 970502923 Typeeto
 appstore 461369673 VOX
 appstore 414855915 WinArchiver Lite
 appstore 410628904 Wunderlist
