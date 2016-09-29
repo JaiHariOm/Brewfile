@@ -7,7 +7,6 @@ brew mas
 tap caskroom/cask
 cask alfred
 cask amethyst
-cask flux
 cask google-chrome
 cask google-drive
 cask google-photos-backup
@@ -147,7 +146,7 @@ appstore 905944937 Textwell (1.3.1)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 409789998 Twitter (4.2.2)
 appstore 970502923 Typeeto (1.4.1)
-appstore 461369673 VOX (2.8.4)
+appstore 461369673 VOX (2.8.5)
 appstore 414855915 WinArchiver Lite (2.5.2)
 appstore 410628904 Wunderlist (3.4.4)
 appstore 497799835 Xcode (8.0)
