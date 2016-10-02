@@ -13,6 +13,7 @@ cask google-photos-backup
 cask inkscape
 cask iterm2
 cask java
+cask macdown
 cask malwarebytes-anti-malware
 cask simplecap
 cask vivaldi
