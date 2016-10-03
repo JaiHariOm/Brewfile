@@ -31,26 +31,62 @@ tap homebrew/binary
 
 tap homebrew/core
 brew ansible
+brew atk
+brew autoconf
+brew automake
 brew bash
+brew cairo
 brew cmatrix
+brew czmq
 brew fftw
 brew fish
+brew fontconfig
+brew fontforge
+brew freetype
+brew gdbm
+brew gdk-pixbuf
+brew gettext
 brew gist
 brew git
 brew git-flow
+brew glib
+brew gobject-introspection
+brew gtk+
 brew gtk-engines
+brew harfbuzz
+brew hicolor-icon-theme
 brew hub
+brew icu4c
+brew ilmbase
 brew imagemagick --with-x11
+brew intltool
+brew jpeg
+brew libevent
+brew libffi
+brew libpng
+brew libsodium
+brew libtiff
+brew libtool
+brew libyaml
 brew nkf
 brew node --with-full-icu
 brew openexr
+brew openssl
+brew pango
+brew pcre
+brew pcre2
 brew peco
 brew perl
+brew pixman
+brew pkg-config
 brew python
 brew rbenv
+brew readline
 brew reattach-to-user-namespace
 brew rmtrash
 brew ruby
+brew ruby-build
+brew sqlite
 brew the_silver_searcher
 brew tig
 brew tmux
@@ -58,6 +94,8 @@ brew tree
 brew vim
 brew vimpager
 brew wget
+brew xz
+brew zeromq
 brew zsh
 brew zsh-completions
 
@@ -103,7 +141,7 @@ appstore 642220194 DeskConnect (1.2)
 appstore 921458519 DrCleaner (2.1.0)
 appstore 411673888 EasyFind (4.9.3)
 appstore 527555438 Enigma (1.0.1)
-appstore 406056744 Evernote (6.9)
+appstore 406056744 Evernote (6.9.1)
 appstore 1099120373 Exporter (1.2)
 appstore 1080403671 Falling Hearts (1.1)
 appstore 1042588206 Flaticon (1.2)
@@ -122,8 +160,8 @@ appstore 472226235 LanScan (4.2)
 appstore 950145466 Letterspace (1.7.2)
 appstore 451444120 Memory Clean (6.2)
 appstore 1014850245 Monit (1.1)
-appstore 862961526 Notebooks (1.3.1)
-appstore 823766827 OneDrive (17.3.6517)
+appstore 862961526 Notebooks (1.4)
+appstore 823766827 OneDrive (17.3.6518)
 appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (6.0)
 appstore 885120167 Particulars (1.4.3)
