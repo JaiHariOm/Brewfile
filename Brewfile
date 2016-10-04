@@ -51,6 +51,7 @@ brew rbenv
 brew reattach-to-user-namespace
 brew rmtrash
 brew ruby
+brew terminal-notifier
 brew the_silver_searcher
 brew tig
 brew tmux
