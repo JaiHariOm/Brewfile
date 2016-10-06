@@ -40,7 +40,7 @@ brew git
 brew git-flow
 brew gtk-engines
 brew hub
-brew imagemagick --with-x11
+brew imagemagick
 brew nkf
 brew node --with-full-icu
 brew openexr
