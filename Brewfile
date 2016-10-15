@@ -76,11 +76,6 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask firefox-ja (!)
-
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
 appstore 948620309 AirBrowser (3.1)
