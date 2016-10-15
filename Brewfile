@@ -1,47 +1,10 @@
 
 # tap repositories and their packages
 
-# Other Homebrew packages
-brew ansible
-brew bash
-brew brew-file
-brew cmatrix
-brew cot
-brew fftw
-brew fish
-brew gist
-brew git
-brew git-flow
-brew grep
-brew groff
-brew gtk-engines
-brew hub
-brew imagemagick --with-x11
+tap argon/mas
 brew mas
-brew nkf
-brew node --with-full-icu
-brew openexr
-brew peco
-brew perl
-brew python
-brew rbenv
-brew reattach-to-user-namespace
-brew reminders-cli
-brew ricty
-brew rmtrash
-brew ruby
-brew terminal-notifier
-brew the_silver_searcher
-brew tig
-brew tmux
-brew tree
-brew vim
-brew vimpager
-brew wget
-brew zsh
-brew zsh-completions
 
-# Cask applications
+tap caskroom/cask
 cask alfred
 cask amethyst
 cask google-chrome
@@ -57,6 +20,61 @@ cask vivaldi
 cask vlc
 cask xmind
 cask xquartz
+
+tap caskroom/versions
+
+tap coteditor/coteditor
+brew cot
+
+tap homebrew/binary
+
+tap homebrew/core
+brew ansible
+brew bash
+brew cmatrix
+brew fftw
+brew fish
+brew gist
+brew git
+brew git-flow
+brew gtk-engines
+brew hub
+brew imagemagick --with-x11
+brew nkf
+brew node --with-full-icu
+brew openexr
+brew peco
+brew perl
+brew python
+brew rbenv
+brew reattach-to-user-namespace
+brew rmtrash
+brew ruby
+brew terminal-notifier
+brew the_silver_searcher
+brew tig
+brew tmux
+brew tree
+brew vim
+brew vimpager
+brew wget
+brew zsh
+brew zsh-completions
+
+tap homebrew/dupes
+brew grep
+brew groff
+
+tap homebrew/versions
+
+tap keith/formulae
+brew reminders-cli
+
+tap rcmdnk/file
+brew brew-file
+
+tap sanemat/font
+brew ricty
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
