@@ -1,10 +1,47 @@
 
 # tap repositories and their packages
 
-tap argon/mas
+# Other Homebrew packages
+brew ansible
+brew bash
+brew brew-file
+brew cmatrix
+brew cot
+brew fftw
+brew fish
+brew gist
+brew git
+brew git-flow
+brew grep
+brew groff
+brew gtk-engines
+brew hub
+brew imagemagick --with-x11
 brew mas
+brew nkf
+brew node --with-full-icu
+brew openexr
+brew peco
+brew perl
+brew python
+brew rbenv
+brew reattach-to-user-namespace
+brew reminders-cli
+brew ricty
+brew rmtrash
+brew ruby
+brew terminal-notifier
+brew the_silver_searcher
+brew tig
+brew tmux
+brew tree
+brew vim
+brew vimpager
+brew wget
+brew zsh
+brew zsh-completions
 
-tap caskroom/cask
+# Cask applications
 cask alfred
 cask amethyst
 cask google-chrome
@@ -21,61 +58,6 @@ cask vlc
 cask xmind
 cask xquartz
 
-tap caskroom/versions
-
-tap coteditor/coteditor
-brew cot
-
-tap homebrew/binary
-
-tap homebrew/core
-brew ansible
-brew bash
-brew cmatrix
-brew fftw
-brew fish
-brew gist
-brew git
-brew git-flow
-brew gtk-engines
-brew hub
-brew imagemagick --with-x11
-brew nkf
-brew node --with-full-icu
-brew openexr
-brew peco
-brew perl
-brew python
-brew rbenv
-brew reattach-to-user-namespace
-brew rmtrash
-brew ruby
-brew terminal-notifier
-brew the_silver_searcher
-brew tig
-brew tmux
-brew tree
-brew vim
-brew vimpager
-brew wget
-brew zsh
-brew zsh-completions
-
-tap homebrew/dupes
-brew grep
-brew groff
-
-tap homebrew/versions
-
-tap keith/formulae
-brew reminders-cli
-
-tap rcmdnk/file
-brew brew-file
-
-tap sanemat/font
-brew ricty
-
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
 appstore 948620309 AirBrowser (3.1)
@@ -88,12 +70,12 @@ appstore 500154009 BitdefenderVirusScanner (3.7)
 appstore 425264550 Blackmagic Disk Speed Test (3.0)
 appstore 955293604 Blik (1.5.5)
 appstore 657791564 Briqs (1.2.7)
-appstore 1081203896 BrowserFreedom (1.3)
+appstore 1081203896 BrowserFreedom (1.4)
 appstore 545988675 Bubble Browser (2.1.2)
 appstore 696977615 Capo (3.4.3)
 appstore 957147922 City Classical (2.6)
 appstore 523620159 CleanMyDrive 2 (2.1.3)
-appstore 563362017 CloudClip Manager (1.3.3)
+appstore 563362017 CloudClip Manager (1.3.4)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
 appstore 1035237815 Commander One PRO (1.6)
@@ -128,7 +110,7 @@ appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (6.0)
 appstore 885120167 Particulars (1.4.3)
 appstore 967805235 Paste (2.0.1)
-appstore 942568098 Patina (1.1.1)
+appstore 942568098 Patina (1.1.2)
 appstore 951110823 Photo & Video HDR (1.5)
 appstore 787013995 Piccam Uploader (2.1)
 appstore 594914846 Pinger (1.4)
@@ -145,7 +127,7 @@ appstore 405580712 StuffIt Expander (15.0.7)
 appstore 978408712 Syte (1.3.0)
 appstore 905944937 Textwell (1.3.1)
 appstore 425424353 The Unarchiver (3.11.1)
-appstore 409789998 Twitter (4.2.3)
+appstore 409789998 Twitter (4.2.4)
 appstore 970502923 Typeeto (1.4.1)
 appstore 461369673 VOX (2.8.7)
 appstore 414855915 WinArchiver Lite (2.5.2)
@@ -154,5 +136,6 @@ appstore 497799835 Xcode (8.0)
 appstore 492068728 Yummy FTP (1.11.10)
 appstore 530461386 Yummy FTP Watcher (2.2.9)
 appstore 408981434 iMovie (10.1.2)
+appstore 408981381 iPhoto (9.6.1)
 appstore 765282854 iQuickMark (1.5.0)
 appstore 492615400 iRamDisk (3.5.6)
