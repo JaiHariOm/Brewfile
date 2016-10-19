@@ -7,12 +7,12 @@ brew mas
 tap caskroom/cask
 cask alfred
 cask amethyst
+cask firefox
 cask google-chrome
 cask google-drive
 cask google-photos-backup
 cask inkscape
 cask iterm2
-cask java
 cask macdown
 cask malwarebytes-anti-malware
 cask simplecap
