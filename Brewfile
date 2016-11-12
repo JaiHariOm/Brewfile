@@ -55,6 +55,7 @@ brew the_silver_searcher
 brew tig
 brew tmux
 brew tree
+brew utf8proc
 brew vim
 brew vimpager
 brew wget
