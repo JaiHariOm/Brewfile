@@ -32,6 +32,7 @@ tap homebrew/core
 brew ansible
 brew bash
 brew cmatrix
+brew czmq
 brew fftw
 brew fish
 brew gist
@@ -40,6 +41,7 @@ brew git-flow
 brew gtk-engines
 brew hub
 brew imagemagick --with-x11
+brew libsodium
 brew nkf
 brew node --with-full-icu
 brew openexr
