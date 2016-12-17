@@ -38,6 +38,7 @@ brew fish
 brew gist
 brew git
 brew git-flow
+brew gitbucket
 brew gtk-engines
 brew hub
 brew imagemagick --with-x11
