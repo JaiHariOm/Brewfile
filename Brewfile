@@ -28,11 +28,16 @@ brew cot
 
 tap homebrew/binary
 
+tap homebrew/boneyard
+brew gptfdisk
+
 tap homebrew/core
 brew ansible
 brew bash
 brew cmatrix
 brew czmq
+brew dosfstools
+brew e2fsprogs
 brew fftw
 brew fish
 brew gist
