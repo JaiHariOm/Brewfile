@@ -33,30 +33,67 @@ brew gptfdisk
 
 tap homebrew/core
 brew ansible
+brew atk
+brew autoconf
+brew automake
 brew bash
+brew cairo
 brew cmatrix
 brew czmq
 brew dosfstools
 brew e2fsprogs
 brew fftw
 brew fish
+brew fontconfig
+brew fontforge
+brew freetype
+brew gdbm
+brew gdk-pixbuf
+brew gettext
 brew gist
 brew git
 brew git-flow
+brew glib
+brew gobject-introspection
+brew gtk+
 brew gtk-engines
+brew harfbuzz
+brew hicolor-icon-theme
 brew hub
+brew icu4c
+brew ilmbase
 brew imagemagick --with-x11
+brew intltool
+brew jpeg
+brew libevent
+brew libffi
+brew libpng
 brew libsodium
+brew libtiff
+brew libtool
+brew libyaml
 brew nkf
 brew node --with-full-icu
 brew openexr
+brew openssl
+brew openssl@1.1
+brew pango
+brew pcre
+brew pcre2
 brew peco
 brew perl
+brew pixman
+brew pkg-config
+brew popt
 brew python
 brew rbenv
+brew readline
 brew reattach-to-user-namespace
 brew rmtrash
 brew ruby
+brew ruby-build
+brew shared-mime-info
+brew sqlite
 brew terminal-notifier
 brew the_silver_searcher
 brew tig
@@ -66,6 +103,8 @@ brew utf8proc
 brew vim
 brew vimpager
 brew wget
+brew xz
+brew zeromq
 brew zsh
 brew zsh-completions
 
@@ -118,7 +157,7 @@ appstore 1042588206 Flaticon (1.3.1)
 appstore 417976220 Freeway Express AS (5.6.6)
 appstore 1081413713 GIF Brewery 3 (3.2.1)
 appstore 668208984 GIPHY CAPTURE (2.4)
-appstore 682658836 GarageBand (10.1.4)
+appstore 682658836 GarageBand (10.1.5)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang (1.2)
 appstore 685953216 Instashare (1.4.5)
@@ -138,7 +177,7 @@ appstore 885120167 Particulars (1.4.6)
 appstore 967805235 Paste (2.1.2)
 appstore 942568098 Patina (1.1.2)
 appstore 951110823 Photo & Video HDR (1.5)
-appstore 1160374471 PiPifier (1.2.2)
+appstore 1160374471 PiPifier (1.2.3)
 appstore 787013995 Piccam Uploader (2.1)
 appstore 594914846 Pinger (1.4)
 appstore 407963104 Pixelmator (3.6)
