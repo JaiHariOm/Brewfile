@@ -33,67 +33,30 @@ brew gptfdisk
 
 tap homebrew/core
 brew ansible
-brew atk
-brew autoconf
-brew automake
 brew bash
-brew cairo
 brew cmatrix
 brew czmq
 brew dosfstools
 brew e2fsprogs
 brew fftw
 brew fish
-brew fontconfig
-brew fontforge
-brew freetype
-brew gdbm
-brew gdk-pixbuf
-brew gettext
 brew gist
 brew git
 brew git-flow
-brew glib
-brew gobject-introspection
-brew gtk+
 brew gtk-engines
-brew harfbuzz
-brew hicolor-icon-theme
 brew hub
-brew icu4c
-brew ilmbase
 brew imagemagick --with-x11
-brew intltool
-brew jpeg
-brew libevent
-brew libffi
-brew libpng
 brew libsodium
-brew libtiff
-brew libtool
-brew libyaml
 brew nkf
 brew node --with-full-icu
 brew openexr
-brew openssl
-brew openssl@1.1
-brew pango
-brew pcre
-brew pcre2
 brew peco
 brew perl
-brew pixman
-brew pkg-config
-brew popt
 brew python
 brew rbenv
-brew readline
 brew reattach-to-user-namespace
 brew rmtrash
 brew ruby
-brew ruby-build
-brew shared-mime-info
-brew sqlite
 brew terminal-notifier
 brew the_silver_searcher
 brew tig
@@ -103,8 +66,6 @@ brew utf8proc
 brew vim
 brew vimpager
 brew wget
-brew xz
-brew zeromq
 brew zsh
 brew zsh-completions
 
@@ -195,7 +156,7 @@ appstore 905944937 Textwell (1.3.1)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 409789998 Twitter (4.2.4)
 appstore 970502923 Typeeto (1.4.1)
-appstore 461369673 VOX (2.8.13)
+appstore 461369673 VOX (2.8.15)
 appstore 414855915 WinArchiver Lite (2.5.2)
 appstore 410628904 Wunderlist (3.4.6)
 appstore 497799835 Xcode (8.2.1)
