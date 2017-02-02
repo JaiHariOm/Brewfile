@@ -48,7 +48,7 @@ brew hub
 brew imagemagick --with-x11
 brew libsodium
 brew nkf
-brew node --with-full-icu
+brew node
 brew openexr
 brew peco
 brew perl
