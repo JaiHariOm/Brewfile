@@ -33,26 +33,34 @@ brew gptfdisk
 
 tap homebrew/core
 brew ansible
+brew atool
 brew bash
 brew cmatrix
 brew czmq
 brew dosfstools
 brew e2fsprogs
+brew ffmpegthumbnailer
 brew fftw
 brew fish
 brew gist
 brew git
 brew git-flow
 brew gtk-engines
+brew highlight
 brew hub
 brew imagemagick --with-x11
+brew imlib2
+brew libcaca
 brew libsodium
+brew lynx
+brew media-info
 brew nkf
 brew node
 brew openexr
 brew peco
 brew perl
 brew python
+brew ranger
 brew rbenv
 brew reattach-to-user-namespace
 brew rmtrash
@@ -65,7 +73,9 @@ brew tree
 brew utf8proc
 brew vim
 brew vimpager
+brew w3m
 brew wget
+brew xpdf
 brew zsh
 brew zsh-completions
 
