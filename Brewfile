@@ -118,7 +118,7 @@ brew tig
 brew tmux
 brew tree
 brew utf8proc
-brew vim
+brew vim --with-lua
 brew vimpager
 brew w3m
 brew wget
@@ -127,6 +127,7 @@ brew xpdf
 brew xvid
 brew xz
 brew zeromq
+brew zplug
 brew zsh
 brew zsh-completions
 
