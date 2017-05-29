@@ -122,6 +122,7 @@ brew ranger
 brew rbenv
 brew readline
 brew reattach-to-user-namespace
+brew rename
 brew rmtrash
 brew ruby
 brew ruby-build
