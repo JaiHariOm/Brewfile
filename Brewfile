@@ -65,6 +65,7 @@ brew git
 brew git-flow
 brew glib
 brew gobject-introspection
+brew graphite2
 brew grep
 brew groff
 brew gtk+
@@ -179,7 +180,7 @@ appstore 955293604 Blik (1.5.5)
 appstore 657791564 Briqs (1.2.7)
 appstore 1081203896 BrowserFreedom (1.4.1)
 appstore 545988675 Bubble Browser (2.1.2)
-appstore 696977615 Capo (3.5.3)
+appstore 696977615 Capo (3.5.4)
 appstore 957147922 City Classical (2.7)
 appstore 523620159 CleanMyDrive 2 (2.1.6)
 appstore 563362017 CloudClip Manager (1.3.4)
@@ -202,13 +203,13 @@ appstore 668208984 GIPHY CAPTURE (3.4)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang (1.2)
 appstore 408981434 iMovie (10.1.6)
-appstore 1005088137 Instant Translate (1.3.0)
+appstore 1005088137 Instant Translate (2.0.0)
 appstore 685953216 Instashare (1.4.5)
 appstore 408981381 iPhoto (9.6.1)
 appstore 765282854 iQuickMark (1.5.0)
 appstore 492615400 iRamDisk (3.5.8)
 appstore 934011232 Jeff (1.0)
-appstore 409183694 Keynote (7.1.1)
+appstore 409183694 Keynote (7.2)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012000)
 appstore 472226235 LanScan (4.3)
@@ -218,7 +219,7 @@ appstore 1014850245 Monit (1.2)
 appstore 862961526 Notebooks (1.4.2)
 appstore 823766827 OneDrive (17.3.6798)
 appstore 1054519713 Open In (1.0.2)
-appstore 409201541 Pages (6.1.1)
+appstore 409201541 Pages (6.2)
 appstore 885120167 Particulars (1.4.8)
 appstore 967805235 Paste (2.2.2)
 appstore 942568098 Patina (1.1.2)
