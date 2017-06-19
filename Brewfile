@@ -32,103 +32,45 @@ tap homebrew/boneyard
 
 tap homebrew/core
 brew ansible
-brew atk
 brew atool
-brew autoconf
-brew automake
 brew bash
-brew bdw-gc
-brew boost
-brew cairo
 brew cmatrix
 brew cmus
 brew czmq
 brew dosfstools
 brew e2fsprogs
-brew faad2
 brew feh
-brew ffmpeg
 brew ffmpegthumbnailer
 brew fftw
 brew fish
-brew flac
-brew fontconfig
-brew fontforge
-brew freetype
-brew fribidi
-brew gdbm
-brew gdk-pixbuf
-brew gettext
-brew giflib
 brew gist
 brew git
 brew git-flow
-brew glib
-brew gobject-introspection
-brew graphite2
 brew grep
 brew groff
-brew gtk+
 brew gtk-engines
-brew harfbuzz
-brew hicolor-icon-theme
 brew highlight
 brew hub
-brew icu4c
-brew ilmbase
 brew imagemagick --with-x11
-brew imlib2
-brew intltool
-brew jpeg
-brew lame
-brew libao
-brew libass
 brew libcaca
-brew libcue
-brew libevent
-brew libexif
-brew libffi
-brew libogg
-brew libpng
 brew libsodium
-brew libtiff
-brew libtool
-brew libvorbis
-brew libyaml
-brew little-cms2
-brew lua
 brew lynx
-brew mad
 brew media-info
-brew mp4v2
+brew megatools
 brew mplayer
 brew mpv
 brew nkf
 brew node
 brew openexr
-brew openmotif
-brew openssl
-brew openssl@1.1
-brew pango
-brew pcre
-brew pcre2
 brew peco
 brew perl
-brew pixman
-brew pkg-config
-brew popt
-brew python
 brew python3
 brew ranger
 brew rbenv
-brew readline
 brew reattach-to-user-namespace
 brew rename
 brew rmtrash
 brew ruby
-brew ruby-build
-brew shared-mime-info
-brew sqlite
 brew terminal-notifier
 brew the_silver_searcher
 brew tig
@@ -139,12 +81,7 @@ brew vim --with-lua
 brew vimpager
 brew w3m
 brew wget
-brew x264
 brew xpdf
-brew xvid
-brew xz
-brew youtube-dl
-brew zeromq
 brew zplug
 brew zsh
 brew zsh-completions
@@ -199,7 +136,7 @@ appstore 1042588206 Flaticon (1.3.1)
 appstore 417976220 Freeway Express AS (5.6.6)
 appstore 682658836 GarageBand (10.2.0)
 appstore 1081413713 GIF Brewery 3 (3.5)
-appstore 668208984 GIPHY CAPTURE (3.4)
+appstore 668208984 GIPHY CAPTURE (3.5)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang (1.2)
 appstore 408981434 iMovie (10.1.6)
