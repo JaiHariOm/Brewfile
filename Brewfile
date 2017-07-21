@@ -9,8 +9,6 @@ cask alfred
 cask amethyst
 cask firefox
 cask google-chrome
-cask google-drive
-cask google-photos-backup
 cask inkscape
 cask iterm2
 cask macdown
@@ -40,6 +38,7 @@ brew bash
 brew bdw-gc
 brew boost
 brew cairo
+brew cheat
 brew cmatrix
 brew cmus
 brew czmq
@@ -174,6 +173,10 @@ brew ricty
 # Other Homebrew packages
 brew gptfdisk
 
+# Cask applications
+cask google-drive
+cask google-photos-backup
+
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
 appstore 948620309 AirBrowser (3.1)
@@ -195,7 +198,7 @@ appstore 523620159 CleanMyDrive 2 (2.1.7)
 appstore 563362017 CloudClip Manager (1.3.4)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
-appstore 1024640650 CotEditor (3.1.8)
+appstore 1024640650 CotEditor (3.2.0)
 appstore 642220194 DeskConnect (1.2.2)
 appstore 522349879 DM1 (2.2)
 appstore 921458519 DrCleaner (2.1.0)
@@ -208,7 +211,7 @@ appstore 1042588206 Flaticon (1.3.3)
 appstore 417976220 Freeway Express AS (5.6.6)
 appstore 682658836 GarageBand (10.2.0)
 appstore 1081413713 GIF Brewery 3 (3.5)
-appstore 668208984 GIPHY CAPTURE (3.5)
+appstore 668208984 GIPHY CAPTURE (3.6)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang (2.1)
 appstore 408981434 iMovie (10.1.6)
@@ -231,7 +234,7 @@ appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (6.2)
 appstore 885120167 Particulars (1.4.8)
 appstore 967805235 Paste (2.2.3)
-appstore 942568098 Patina (1.1.3)
+appstore 942568098 Patina (1.1.4)
 appstore 951110823 Photo & Video HDR (1.5)
 appstore 787013995 Piccam Uploader (2.1)
 appstore 594914846 Pinger (1.4)
@@ -247,10 +250,10 @@ appstore 692867256 Simplenote (1.1.8)
 appstore 425955336 Skitch (2.8)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 978408712 Syte (1.3.0)
-appstore 905944937 Textwell (1.3.1)
+appstore 905944937 Textwell (1.4)
 appstore 425424353 The Unarchiver (3.11.1)
 appstore 409789998 Twitter (4.3.2)
-appstore 970502923 Typeeto (1.4.2)
+appstore 970502923 Typeeto (1.4.3)
 appstore 461369673 VOX (2.8.25)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.7)
