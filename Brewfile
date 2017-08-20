@@ -39,6 +39,7 @@ brew python3
 brew libcaca
 brew fftw
 brew terminal-notifier
+brew shared-mime-info
 brew dosfstools
 brew vimpager
 brew reattach-to-user-namespace
