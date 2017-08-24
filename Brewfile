@@ -12,7 +12,6 @@ cask google-chrome
 cask inkscape
 cask iterm2
 cask macdown
-cask malwarebytes-anti-malware
 cask simplecap
 cask vivaldi
 cask vlc
@@ -105,6 +104,7 @@ brew gptfdisk
 # Cask applications
 cask google-drive
 cask google-photos-backup
+cask malwarebytes-anti-malware
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
