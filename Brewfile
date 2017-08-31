@@ -102,8 +102,6 @@ brew ricty
 brew gptfdisk
 
 # Cask applications
-cask google-drive
-cask google-photos-backup
 cask malwarebytes-anti-malware
 
 # App Store applications
