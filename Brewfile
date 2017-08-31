@@ -9,7 +9,6 @@ cask alfred
 cask amethyst
 cask firefox
 cask google-chrome
-cask inkscape
 cask iterm2
 cask macdown
 cask simplecap
@@ -100,9 +99,6 @@ brew ricty
 
 # Other Homebrew packages
 brew gptfdisk
-
-# Cask applications
-cask malwarebytes-anti-malware
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
