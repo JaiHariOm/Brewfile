@@ -11,6 +11,7 @@ cask firefox
 cask google-chrome
 cask iterm2
 cask macdown
+cask malwarebytes
 cask simplecap
 cask vivaldi
 cask vlc
