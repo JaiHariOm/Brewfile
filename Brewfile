@@ -31,6 +31,7 @@ tap homebrew/core
 brew cheat
 brew zsh-completions
 brew rmtrash
+brew python
 brew mpv
 brew tmux
 brew atool
