@@ -1,8 +1,73 @@
 
 # tap repositories and their packages
 
-tap argon/mas
+tap homebrew/core
+brew ansible
+brew atool
+brew bash
+brew cheat
+brew cmatrix
+brew cmus
+brew czmq
+brew dosfstools
+brew e2fsprogs
+brew feh
+brew ffmpegthumbnailer
+brew fftw
+brew fish
+brew gist
+brew git
+brew git-flow
+brew grep
+brew groff
+brew gtk-engines
+brew highlight
+brew hub
+brew imagemagick --with-x11
+brew libcaca
+brew libsodium
+brew lynx
 brew mas
+brew media-info
+brew megatools
+brew mplayer
+brew mpv
+brew nkf
+brew node
+brew openexr
+brew peco
+brew perl
+brew python
+brew python3
+brew ranger
+brew rbenv
+brew reattach-to-user-namespace
+brew rename
+brew rmtrash
+brew ruby
+brew shared-mime-info
+brew terminal-notifier
+brew the_silver_searcher
+brew tig
+brew tmux
+brew tree
+brew utf8proc
+brew vim --with-lua
+brew vimpager
+brew w3m
+brew wget
+brew xpdf
+brew zplug
+brew zsh
+brew zsh-completions
+
+tap homebrew/binary
+
+tap homebrew/boneyard
+
+tap homebrew/dupes
+
+tap homebrew/versions
 
 tap caskroom/cask
 cask alfred
@@ -20,75 +85,10 @@ cask xquartz
 
 tap caskroom/versions
 
+tap argon/mas
+
 tap coteditor/coteditor
 brew cot
-
-tap homebrew/binary
-
-tap homebrew/boneyard
-
-tap homebrew/core
-brew cheat
-brew zsh-completions
-brew rmtrash
-brew python
-brew mpv
-brew tmux
-brew atool
-brew python3
-brew libcaca
-brew fftw
-brew terminal-notifier
-brew shared-mime-info
-brew dosfstools
-brew vimpager
-brew reattach-to-user-namespace
-brew libsodium
-brew imagemagick --with-x11
-brew cmatrix
-brew tree
-brew ranger
-brew ffmpegthumbnailer
-brew git-flow
-brew bash
-brew xpdf
-brew media-info
-brew utf8proc
-brew mplayer
-brew vim --with-lua
-brew wget
-brew git
-brew w3m
-brew feh
-brew perl
-brew megatools
-brew groff
-brew fish
-brew gist
-brew nkf
-brew the_silver_searcher
-brew ruby
-brew peco
-brew grep
-brew lynx
-brew highlight
-brew zsh
-brew rename
-brew openexr
-brew ansible
-brew hub
-brew gtk-engines
-brew tig
-brew node
-brew czmq
-brew cmus
-brew zplug
-brew e2fsprogs
-brew rbenv
-
-tap homebrew/dupes
-
-tap homebrew/versions
 
 tap keith/formulae
 brew reminders-cli
@@ -108,7 +108,7 @@ appstore 948620309 AirBrowser (3.1)
 appstore 974971992 Alternote (1.0.10)
 appstore 448002467 Apps on Sale (2.1)
 appstore 1122124521 Awesome Desktop Switcher (1.5.6)
-appstore 808501572 Backgrounds (1.4.12)
+appstore 808501572 Backgrounds (1.5)
 appstore 490461369 Bandwidth+ (1.9)
 appstore 1041381991 Beautiful Earth (1.0)
 appstore 500154009 BitdefenderVirusScanner (3.10)
@@ -132,7 +132,7 @@ appstore 527555438 Enigma (1.0.1)
 appstore 406056744 Evernote (6.12.3)
 appstore 1099120373 Exporter (1.4.1)
 appstore 1080403671 Falling Hearts (1.1)
-appstore 1042588206 Flaticon (1.3.3)
+appstore 1042588206 Flaticon (1.4)
 appstore 417976220 Freeway Express AS (5.6.6)
 appstore 682658836 GarageBand (10.2.0)
 appstore 1081413713 GIF Brewery 3 (3.6)
@@ -140,7 +140,6 @@ appstore 668208984 GIPHY CAPTURE (3.7)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang (2.1)
 appstore 408981434 iMovie (10.1.7)
-appstore 1127487414 Install macOS Sierra (12.6.03)
 appstore 1005088137 Instant Translate (3.1.0)
 appstore 685953216 Instashare (1.4.5)
 appstore 408981381 iPhoto (9.6.1)
@@ -167,7 +166,7 @@ appstore 594914846 Pinger (1.4)
 appstore 1160374471 PiPifier (1.2.4)
 appstore 407963104 Pixelmator (3.7)
 appstore 568494494 Pocket (1.6.2)
-appstore 445189367 PopClip (1.5.7)
+appstore 445189367 PopClip (1.5.8)
 appstore 948415170 Pushbullet (4)
 appstore 965442961 QuickShot (2.1)
 appstore 519421117 RB App Checker Lite (1.1.5)
