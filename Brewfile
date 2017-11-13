@@ -4,7 +4,9 @@
 tap homebrew/core
 brew ansible
 brew atool
+brew automake
 brew bash
+brew boost
 brew cheat
 brew cmatrix
 brew cmus
@@ -15,6 +17,7 @@ brew feh
 brew ffmpegthumbnailer
 brew fftw
 brew fish
+brew fontforge
 brew gist
 brew git
 brew git-flow
@@ -24,6 +27,7 @@ brew gtk-engines
 brew highlight
 brew hub
 brew imagemagick --with-x11
+brew intltool
 brew libcaca
 brew libsodium
 brew lynx
@@ -36,15 +40,12 @@ brew nkf
 brew node
 brew openexr
 brew peco
-brew perl
-brew python
 brew python3
 brew ranger
 brew rbenv
 brew reattach-to-user-namespace
 brew rename
 brew rmtrash
-brew ruby
 brew shared-mime-info
 brew terminal-notifier
 brew the_silver_searcher
