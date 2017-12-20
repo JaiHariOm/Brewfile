@@ -71,18 +71,18 @@ tap homebrew/dupes
 tap homebrew/versions
 
 tap caskroom/cask
-cask alfred
 cask amethyst
+cask vlc
+cask macdown
+cask vivaldi
+cask simplecap
+cask iterm2
+cask xmind
+cask malwarebytes
 cask firefox
 cask google-chrome
-cask iterm2
-cask macdown
-cask malwarebytes
-cask simplecap
-cask vivaldi
-cask vlc
-cask xmind
 cask xquartz
+cask alfred
 
 tap caskroom/versions
 
@@ -141,7 +141,6 @@ appstore 668208984 GIPHY CAPTURE (3.7)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang (2.1)
 appstore 408981434 iMovie (10.1.8)
-appstore 0 Install macOS High Sierra (13.1.05)
 appstore 1127487414 Install macOS Sierra (12.6.03)
 appstore 685953216 Instashare (1.4.5)
 appstore 408981381 iPhoto (9.6.1)
