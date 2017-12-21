@@ -28,6 +28,7 @@ brew highlight
 brew hub
 brew imagemagick --with-x11
 brew intltool
+brew joplin
 brew libcaca
 brew libsodium
 brew lynx
@@ -37,7 +38,6 @@ brew megatools
 brew mplayer
 brew mpv
 brew nkf
-brew node
 brew openexr
 brew peco
 brew python3
