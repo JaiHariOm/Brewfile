@@ -58,7 +58,6 @@ brew vimpager
 brew w3m
 brew wget
 brew xpdf
-brew zplug
 brew zsh
 brew zsh-completions
 
