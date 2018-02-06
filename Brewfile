@@ -39,6 +39,7 @@ brew mplayer
 brew mpv
 brew nkf
 brew openexr
+brew openmotif
 brew openssl@1.1
 brew peco
 brew python3
