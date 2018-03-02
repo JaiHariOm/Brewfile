@@ -42,7 +42,6 @@ brew openexr
 brew openmotif
 brew openssl@1.1
 brew peco
-brew python3
 brew ranger
 brew rbenv
 brew reattach-to-user-namespace
