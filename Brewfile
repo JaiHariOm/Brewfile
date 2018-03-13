@@ -78,7 +78,6 @@ cask vivaldi
 cask simplecap
 cask iterm2
 cask xmind
-cask malwarebytes
 cask firefox
 cask google-chrome
 cask xquartz
@@ -149,7 +148,7 @@ appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000012003)
 appstore 472226235 LanScan (5.0)
 appstore 950145466 Letterspace (1.7.2)
-appstore 1005088137 Mate Translate (4.0.6)
+appstore 1005088137 Mate Translate (4.0.7)
 appstore 451444120 Memory Clean (6.3)
 appstore 1014850245 Monit (1.2.1)
 appstore 862961526 Notebooks (1.4.2)
@@ -157,7 +156,7 @@ appstore 823766827 OneDrive (17.005.0107)
 appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (6.3.1)
 appstore 885120167 Particulars (22)
-appstore 967805235 Paste (2.2.5)
+appstore 967805235 Paste (2.3.0)
 appstore 942568098 Patina (1.1.4)
 appstore 951110823 Photo & Video HDR (1.5)
 appstore 787013995 Piccam Uploader (2.1)
