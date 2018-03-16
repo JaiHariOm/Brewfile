@@ -71,17 +71,17 @@ tap homebrew/dupes
 tap homebrew/versions
 
 tap caskroom/cask
+cask alfred
 cask amethyst
-cask vlc
-cask macdown
-cask vivaldi
-cask simplecap
-cask iterm2
-cask xmind
 cask firefox
 cask google-chrome
+cask iterm2
+cask macdown
+cask simplecap
+cask vivaldi
+cask vlc
+cask xmind
 cask xquartz
-cask alfred
 
 tap caskroom/versions
 
