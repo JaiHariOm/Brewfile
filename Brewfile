@@ -77,6 +77,7 @@ cask firefox
 cask google-chrome
 cask iterm2
 cask macdown
+cask macpass
 cask simplecap
 cask vivaldi
 cask vlc
