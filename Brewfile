@@ -21,6 +21,7 @@ brew fontforge
 brew gist
 brew git
 brew git-flow
+brew gobject-introspection
 brew grep
 brew groff
 brew gtk-engines
