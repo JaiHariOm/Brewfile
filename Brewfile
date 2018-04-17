@@ -10,6 +10,7 @@ brew boost
 brew cheat
 brew cmatrix
 brew cmus
+brew coreutils
 brew czmq
 brew dosfstools
 brew e2fsprogs
