@@ -77,6 +77,7 @@ cask alfred
 cask amethyst
 cask firefox
 cask google-chrome
+cask google-japanese-ime
 cask iterm2
 cask macdown
 cask macpass
