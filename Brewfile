@@ -98,7 +98,7 @@ tap coteditor/coteditor
 brew cot
 
 tap crisidev/chunkwm
-brew chunkwm --HEAD
+brew chunkwm
 
 tap keith/formulae
 brew reminders-cli
