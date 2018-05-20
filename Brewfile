@@ -70,6 +70,8 @@ tap homebrew/boneyard
 
 tap homebrew/dupes
 
+tap homebrew/services
+
 tap homebrew/versions
 
 tap caskroom/cask
@@ -94,8 +96,14 @@ tap argon/mas
 tap coteditor/coteditor
 brew cot
 
+tap crisidev/chunkwm
+brew chunkwm --HEAD
+
 tap keith/formulae
 brew reminders-cli
+
+tap koekeishiya/formulae
+brew khd
 
 tap rcmdnk/file
 brew brew-file
@@ -125,13 +133,13 @@ appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
 appstore 1035236694 Commander One (1.7.3)
-appstore 1024640650 CotEditor (3.3.5)
+appstore 1024640650 CotEditor (3.4.0)
 appstore 642220194 DeskConnect (1.2.2)
 appstore 522349879 DM1 (3.1)
 appstore 921458519 DrCleaner (2.1.0)
 appstore 411673888 EasyFind (4.9.3)
 appstore 527555438 Enigma (1.0.1)
-appstore 406056744 Evernote (7.1)
+appstore 406056744 Evernote (7.1.1)
 appstore 1099120373 Exporter (1.4.1)
 appstore 1080403671 Falling Hearts (1.1)
 appstore 1042588206 Flaticon (1.4)
@@ -160,7 +168,7 @@ appstore 823766827 OneDrive (18.065.0329)
 appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (7.0.1)
 appstore 885120167 Particulars (22)
-appstore 967805235 Paste (2.3.5)
+appstore 967805235 Paste (2.3.6)
 appstore 942568098 Patina (1.1.4)
 appstore 951110823 Photo & Video HDR (1.5)
 appstore 787013995 Piccam Uploader (2.1)
@@ -184,6 +192,6 @@ appstore 970502923 Typeeto (1.4.3)
 appstore 461369673 VOX (3.2.1)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.8)
-appstore 497799835 Xcode (9.3)
+appstore 497799835 Xcode (9.3.1)
 appstore 492068728 Yummy FTP (1.11.16)
 appstore 530461386 Yummy FTP Watcher (2.2.16)
