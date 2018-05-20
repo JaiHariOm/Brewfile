@@ -105,6 +105,7 @@ brew reminders-cli
 
 tap koekeishiya/formulae
 brew khd
+brew skhd
 
 tap rcmdnk/file
 brew brew-file
