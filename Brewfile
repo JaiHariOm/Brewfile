@@ -6,6 +6,7 @@ brew ansible
 brew atool
 brew automake
 brew bash
+brew bash-completion
 brew boost
 brew cheat
 brew cmatrix
