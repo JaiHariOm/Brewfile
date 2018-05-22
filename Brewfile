@@ -82,6 +82,7 @@ cask firefox
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
+cask launchrocket
 cask macdown
 cask macpass
 cask simplecap
