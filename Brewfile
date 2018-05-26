@@ -69,13 +69,7 @@ tap homebrew/binary
 
 tap homebrew/boneyard
 
-tap homebrew/dupes
-
-tap homebrew/services
-
-tap homebrew/versions
-
-tap caskroom/cask
+tap homebrew/cask
 cask alfred
 cask amethyst
 cask firefox
@@ -91,7 +85,13 @@ cask vlc
 cask xmind
 cask xquartz
 
-tap caskroom/versions
+tap homebrew/cask-versions
+
+tap homebrew/dupes
+
+tap homebrew/services
+
+tap homebrew/versions
 
 tap argon/mas
 
@@ -196,4 +196,4 @@ appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (9.3.1)
 appstore 492068728 Yummy FTP (1.11.17)
-appstore 530461386 Yummy FTP Watcher (2.2.16)
+appstore 530461386 Yummy FTP Watcher (2.2.17)
