@@ -93,6 +93,8 @@ tap homebrew/services
 
 tap homebrew/versions
 
+tap caskroom/cask
+
 tap argon/mas
 
 tap coteditor/coteditor
