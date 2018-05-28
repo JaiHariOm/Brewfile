@@ -75,6 +75,7 @@ cask amethyst
 cask firefox
 cask google-chrome
 cask google-japanese-ime
+cask iina
 cask iterm2
 cask launchrocket
 cask macdown
