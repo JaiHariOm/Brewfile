@@ -71,19 +71,12 @@ tap homebrew/boneyard
 
 tap homebrew/cask
 cask alfred
-cask amethyst
 cask firefox
-cask google-chrome
 cask google-japanese-ime
-cask iina
 cask iterm2
-cask launchrocket
 cask macdown
-cask macpass
 cask simplecap
-cask vivaldi
 cask vlc
-cask xmind
 cask xquartz
 
 tap homebrew/cask-versions
@@ -115,6 +108,15 @@ brew brew-file
 
 # Other Homebrew packages
 brew gptfdisk
+
+# Other Cask applications
+cask amethyst
+cask google-chrome
+cask iina
+cask launchrocket
+cask macpass
+cask vivaldi
+cask xmind
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
