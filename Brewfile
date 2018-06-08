@@ -69,6 +69,14 @@ tap homebrew/binary
 
 tap homebrew/boneyard
 
+tap homebrew/cask-versions
+
+tap homebrew/dupes
+
+tap homebrew/services
+
+tap homebrew/versions
+
 tap homebrew/cask
 cask alfred
 cask firefox
@@ -78,16 +86,6 @@ cask macdown
 cask simplecap
 cask vlc
 cask xquartz
-
-tap homebrew/cask-versions
-
-tap homebrew/dupes
-
-tap homebrew/services
-
-tap homebrew/versions
-
-tap caskroom/cask
 
 tap argon/mas
 
