@@ -140,6 +140,7 @@ brew youtube-dl
 brew zeromq
 brew zsh
 brew zsh-completions
+brew zsh-syntax-highlighting
 
 tap homebrew/binary
 
