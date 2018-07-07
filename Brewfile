@@ -85,6 +85,7 @@ brew lua
 brew lua@5.1
 brew lynx
 brew mad
+brew markdown
 brew mas
 brew media-info
 brew megatools
