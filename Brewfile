@@ -44,6 +44,7 @@ brew glib-networking
 brew gmp
 brew gnutls
 brew gobject-introspection
+brew gptfdisk
 brew graphite2
 brew grep
 brew groff
@@ -182,9 +183,6 @@ brew skhd
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew gptfdisk
 
 # Other Cask applications
 cask amethyst
