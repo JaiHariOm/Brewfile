@@ -117,6 +117,7 @@ brew python@2
 brew qt
 brew ranger
 brew rbenv
+brew rbenv-gemset
 brew readline
 brew reattach-to-user-namespace
 brew rename
