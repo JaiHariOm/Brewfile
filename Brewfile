@@ -131,6 +131,7 @@ brew rename
 brew rmtrash
 brew ruby
 brew ruby-build
+brew screen
 brew shared-mime-info
 brew sqlite
 brew terminal-notifier
