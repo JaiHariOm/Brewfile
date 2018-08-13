@@ -21,6 +21,7 @@ brew dosfstools
 brew e2fsprogs
 brew faad2
 brew fasd
+brew fd
 brew feh
 brew ffmpeg
 brew ffmpegthumbnailer
