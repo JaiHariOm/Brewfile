@@ -7,6 +7,7 @@ brew atk
 brew atool
 brew autoconf
 brew automake
+brew awscli
 brew bash
 brew bash-completion
 brew bdw-gc
@@ -44,6 +45,7 @@ brew glib
 brew glib-networking
 brew gmp
 brew gnutls
+brew go
 brew gobject-introspection
 brew gptfdisk
 brew graphite2
@@ -65,6 +67,7 @@ brew isl
 brew jemalloc
 brew joplin
 brew jpeg
+brew kubernetes-cli
 brew lame
 brew libao
 brew libass
@@ -120,6 +123,7 @@ brew perl
 brew pixman
 brew pkg-config
 brew popt
+brew pyenv
 brew python
 brew python@2
 brew qt
