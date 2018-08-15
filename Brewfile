@@ -143,6 +143,7 @@ brew terminal-notifier
 brew the_silver_searcher
 brew tig
 brew tmux
+brew tmuxinator-completion
 brew tree
 brew unibilium
 brew utf8proc
