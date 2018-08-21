@@ -2,12 +2,11 @@
 # tap repositories and their packages
 
 tap homebrew/core
-brew ansible
+brew ack
 brew atk
 brew atool
 brew autoconf
 brew automake
-brew awscli
 brew bash
 brew bash-completion
 brew bdw-gc
@@ -18,8 +17,11 @@ brew cmatrix
 brew cmus
 brew coreutils
 brew czmq
+brew diff-so-fancy
+brew dnsmasq
 brew dosfstools
 brew e2fsprogs
+brew entr
 brew faad2
 brew fasd
 brew fd
@@ -33,6 +35,7 @@ brew fontconfig
 brew fontforge
 brew freetype
 brew fribidi
+brew fzf
 brew gcc
 brew gdbm
 brew gdk-pixbuf
@@ -41,6 +44,7 @@ brew giflib
 brew gist
 brew git
 brew git-flow
+brew git-standup
 brew glib
 brew glib-networking
 brew gmp
@@ -94,6 +98,7 @@ brew little-cms2
 brew lua
 brew lua@5.1
 brew luajit
+brew luarocks
 brew lynx
 brew mad
 brew markdown
@@ -108,6 +113,7 @@ brew msgpack
 brew mujs
 brew neovim
 brew nettle
+brew nginx
 brew nkf
 brew node
 brew openexr
@@ -124,7 +130,6 @@ brew pixman
 brew pkg-config
 brew popt
 brew pyenv
-brew python
 brew python@2
 brew qt
 brew ranger
@@ -133,21 +138,23 @@ brew rbenv-gemset
 brew readline
 brew reattach-to-user-namespace
 brew rename
+brew ripgrep
 brew rmtrash
 brew ruby
 brew ruby-build
 brew screen
 brew shared-mime-info
+brew shellcheck
 brew sqlite
 brew terminal-notifier
 brew the_silver_searcher
 brew tig
 brew tmux
 brew tmuxinator-completion
+brew trash
 brew tree
 brew unibilium
 brew utf8proc
-brew vim --with-lua
 brew vimpager
 brew w3m
 brew wget
@@ -156,7 +163,9 @@ brew xpdf
 brew xvid
 brew xz
 brew youtube-dl
+brew z
 brew zeromq
+brew zplug
 brew zsh
 brew zsh-completions
 brew zsh-syntax-highlighting
@@ -164,6 +173,9 @@ brew zsh-syntax-highlighting
 tap homebrew/binary
 
 tap homebrew/boneyard
+
+tap homebrew/cask-fonts
+cask font-hack-nerd-font
 
 tap homebrew/cask-versions
 
@@ -202,6 +214,9 @@ tap neovim/neovim
 tap rcmdnk/file
 brew brew-file
 
+tap sanemat/font
+brew ricty --with-powerline
+
 # Other Cask applications
 cask amethyst
 cask google-chrome
@@ -233,13 +248,13 @@ appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
 appstore 1035236694 Commander One (1.7.3)
-appstore 1024640650 CotEditor (3.4.4)
+appstore 1024640650 CotEditor (3.5.0)
 appstore 642220194 DeskConnect (1.2.2)
 appstore 522349879 DM1 (3.1)
 appstore 921458519 DrCleaner (2.1.0)
 appstore 411673888 EasyFind (4.9.3)
 appstore 527555438 Enigma (1.0.1)
-appstore 406056744 Evernote (7.3.1)
+appstore 406056744 Evernote (7.4)
 appstore 1099120373 Exporter (1.4.1)
 appstore 1080403671 Falling Hearts (1.1)
 appstore 1042588206 Flaticon (1.4)
@@ -264,7 +279,7 @@ appstore 1005088137 Mate Translate (5.0.0)
 appstore 451444120 Memory Clean (6.6)
 appstore 1014850245 Monit (1.2.1)
 appstore 862961526 Notebooks (1.4.2)
-appstore 823766827 OneDrive (18.111.0603)
+appstore 823766827 OneDrive (18.131.0701)
 appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (7.1)
 appstore 885120167 Particulars (23)
@@ -289,7 +304,7 @@ appstore 905944937 Textwell (1.5.3)
 appstore 425424353 The Unarchiver (4.0.0)
 appstore 409789998 Twitter (4.3.2)
 appstore 970502923 Typeeto (1.4.3)
-appstore 461369673 VOX (3.3)
+appstore 461369673 VOX (3.3.1)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (9.4.1)
