@@ -29,6 +29,7 @@ brew feh
 brew ffmpeg
 brew ffmpegthumbnailer
 brew fftw
+brew figlet
 brew fish
 brew flac
 brew fontconfig
@@ -151,6 +152,7 @@ brew the_silver_searcher
 brew tig
 brew tmux
 brew tmuxinator-completion
+brew toilet
 brew trash
 brew tree
 brew unibilium
