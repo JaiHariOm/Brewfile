@@ -159,6 +159,7 @@ brew vimpager
 brew w3m
 brew wget
 brew x264
+brew xclip
 brew xpdf
 brew xvid
 brew xz
