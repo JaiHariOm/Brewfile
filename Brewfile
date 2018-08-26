@@ -131,6 +131,7 @@ brew pixman
 brew pkg-config
 brew popt
 brew pyenv
+brew python
 brew python@2
 brew qt
 brew ranger
@@ -157,6 +158,7 @@ brew trash
 brew tree
 brew unibilium
 brew utf8proc
+brew vim
 brew vimpager
 brew w3m
 brew wget
