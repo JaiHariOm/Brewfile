@@ -145,6 +145,7 @@ brew rmtrash
 brew ruby
 brew ruby-build
 brew screen
+brew screenfetch
 brew shared-mime-info
 brew shellcheck
 brew sqlite
