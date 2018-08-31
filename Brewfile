@@ -208,6 +208,9 @@ brew cot
 tap crisidev/chunkwm
 brew chunkwm
 
+tap jesseduffield/lazygit
+brew lazygit
+
 tap keith/formulae
 brew reminders-cli
 
@@ -252,8 +255,8 @@ appstore 523620159 CleanMyDrive 2 (2.1.12)
 appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
-appstore 1035236694 Commander One (1.7.3)
-appstore 1024640650 CotEditor (3.5.0)
+appstore 1035236694 Commander One (1.7.4)
+appstore 1024640650 CotEditor (3.5.1)
 appstore 642220194 DeskConnect (1.2.2)
 appstore 522349879 DM1 (3.1)
 appstore 921458519 DrCleaner (2.1.0)
