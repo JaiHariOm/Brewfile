@@ -62,6 +62,7 @@ brew gtk-engines
 brew harfbuzz
 brew hicolor-icon-theme
 brew highlight
+brew htop
 brew hub
 brew icu4c
 brew ilmbase
