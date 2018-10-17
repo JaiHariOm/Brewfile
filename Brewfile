@@ -113,6 +113,7 @@ brew mplayer
 brew mpv
 brew msgpack
 brew mujs
+brew ncurses
 brew neovim
 brew nettle
 brew nginx
@@ -313,7 +314,7 @@ appstore 905944937 Textwell (1.5.4)
 appstore 425424353 The Unarchiver (4.0.0)
 appstore 485812721 TweetDeck (3.9.889)
 appstore 970502923 Typeeto (1.4.3)
-appstore 461369673 VOX (3.3.2)
+appstore 461369673 VOX (3.3.4)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (10.0)
