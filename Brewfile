@@ -94,6 +94,7 @@ brew libtool
 brew libunistring
 brew libuv
 brew libvorbis
+brew libvpx
 brew libvterm
 brew libyaml
 brew little-cms2
@@ -123,6 +124,7 @@ brew openexr
 brew openmotif
 brew openssl
 brew openssl@1.1
+brew opus
 brew p11-kit
 brew pango
 brew pcre
@@ -148,11 +150,14 @@ brew ruby
 brew ruby-build
 brew screen
 brew screenfetch
+brew sdl2
 brew shared-mime-info
 brew shellcheck
+brew snappy
 brew sqlite
 brew terminal-notifier
 brew the_silver_searcher
+brew theora
 brew tig
 brew tmux
 brew tmuxinator-completion
@@ -165,6 +170,7 @@ brew vimpager
 brew w3m
 brew wget
 brew x264
+brew x265
 brew xclip
 brew xpdf
 brew xvid
