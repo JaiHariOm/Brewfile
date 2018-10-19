@@ -121,6 +121,7 @@ brew nginx
 brew nkf
 brew node
 brew openexr
+brew openjpeg
 brew openmotif
 brew openssl
 brew openssl@1.1
@@ -168,6 +169,7 @@ brew unibilium
 brew utf8proc
 brew vimpager
 brew w3m
+brew webp
 brew wget
 brew x264
 brew x265
