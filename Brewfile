@@ -206,9 +206,9 @@ cask firefox
 cask google-japanese-ime
 cask iterm2
 cask macdown
-cask simplecap
-cask vlc
-cask xquartz
+cask pennywise
+cask vivaldi
+cask xmind
 
 tap argon/mas
 
@@ -241,8 +241,9 @@ cask google-chrome
 cask iina
 cask launchrocket
 cask macpass
-cask vivaldi
-cask xmind
+cask simplecap
+cask vlc
+cask xquartz
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
