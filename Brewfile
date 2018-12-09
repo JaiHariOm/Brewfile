@@ -216,7 +216,6 @@ tap coteditor/coteditor
 brew cot
 
 tap crisidev/chunkwm
-brew chunkwm
 
 tap jesseduffield/lazygit
 brew lazygit
@@ -225,6 +224,7 @@ tap keith/formulae
 brew reminders-cli
 
 tap koekeishiya/formulae
+brew chunkwm
 brew skhd
 
 tap neovim/neovim
