@@ -85,6 +85,7 @@ brew libffi
 brew libidn2
 brew libmpc
 brew libogg
+brew libomp
 brew libpng
 brew libsodium
 brew libtasn1
@@ -274,7 +275,7 @@ appstore 522349879 DM1 (3.1)
 appstore 921458519 DrCleaner (2.1.0)
 appstore 411673888 EasyFind (4.9.3)
 appstore 527555438 Enigma (1.0.1)
-appstore 406056744 Evernote (7.7)
+appstore 406056744 Evernote (7.8)
 appstore 1099120373 Exporter (2.0)
 appstore 1080403671 Falling Hearts (1.1)
 appstore 1042588206 Flaticon (1.4)
