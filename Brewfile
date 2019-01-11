@@ -137,6 +137,7 @@ brew pixman
 brew pkg-config
 brew popt
 brew pyenv
+brew pyenv-virtualenv
 brew python
 brew python@2
 brew qt
