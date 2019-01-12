@@ -220,6 +220,8 @@ brew cot
 
 tap crisidev/chunkwm
 
+tap domt4/autoupdate
+
 tap jesseduffield/lazygit
 brew lazygit
 
