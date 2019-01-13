@@ -88,10 +88,12 @@ brew libogg
 brew libomp
 brew libpng
 brew libsodium
+brew libspiro
 brew libtasn1
 brew libtermkey
 brew libtiff
 brew libtool
+brew libuninameslist
 brew libunistring
 brew libuv
 brew libvorbis
@@ -157,6 +159,7 @@ brew sdl2
 brew shared-mime-info
 brew shellcheck
 brew snappy
+brew sphinx-doc
 brew sqlite
 brew terminal-notifier
 brew the_silver_searcher
