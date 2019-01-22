@@ -66,6 +66,7 @@ brew htop
 brew hub
 brew icu4c
 brew ilmbase
+brew imagemagick
 brew imlib2
 brew intltool
 brew isl
