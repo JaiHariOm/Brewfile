@@ -66,7 +66,6 @@ brew htop
 brew hub
 brew icu4c
 brew ilmbase
-brew imagemagick --with-x11
 brew imlib2
 brew intltool
 brew isl
@@ -75,6 +74,7 @@ brew joplin
 brew jpeg
 brew kubernetes-cli
 brew lame
+brew leptonica
 brew libao
 brew libass
 brew libcaca
@@ -162,6 +162,7 @@ brew snappy
 brew sphinx-doc
 brew sqlite
 brew terminal-notifier
+brew tesseract
 brew the_silver_searcher
 brew theora
 brew tig
@@ -172,6 +173,7 @@ brew trash
 brew tree
 brew unibilium
 brew utf8proc
+brew vapoursynth
 brew vimpager
 brew w3m
 brew webp
@@ -185,6 +187,7 @@ brew xz
 brew youtube-dl
 brew z
 brew zeromq
+brew zimg
 brew zplug
 brew zsh
 brew zsh-completions
@@ -213,8 +216,8 @@ cask iina
 cask launchrocket
 cask macpass
 cask simplecap
-cask vlc
-cask xquartz
+cask vivaldi
+cask xmind
 
 tap argon/mas
 
@@ -250,8 +253,9 @@ cask google-japanese-ime
 cask iterm2
 cask macdown
 cask pennywise
-cask vivaldi
-cask xmind
+cask upterm
+cask vlc
+cask xquartz
 
 # App Store applications
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
