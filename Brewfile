@@ -42,6 +42,7 @@ brew gcc
 brew gdbm
 brew gdk-pixbuf
 brew gettext
+brew ghq
 brew giflib
 brew gist
 brew git
