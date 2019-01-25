@@ -35,6 +35,7 @@ brew flac
 brew fontconfig
 brew fontforge
 brew freetype
+brew frei0r
 brew fribidi
 brew fzf
 brew gcc
@@ -124,6 +125,7 @@ brew nettle
 brew nginx
 brew nkf
 brew node
+brew opencore-amr
 brew openexr
 brew openjpeg
 brew openmotif
@@ -152,6 +154,7 @@ brew reattach-to-user-namespace
 brew rename
 brew ripgrep
 brew rmtrash
+brew rtmpdump
 brew ruby
 brew ruby-build
 brew screen
@@ -160,6 +163,7 @@ brew sdl2
 brew shared-mime-info
 brew shellcheck
 brew snappy
+brew speex
 brew sphinx-doc
 brew sqlite
 brew terminal-notifier
