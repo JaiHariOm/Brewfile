@@ -215,13 +215,13 @@ tap homebrew/services
 tap homebrew/versions
 
 tap homebrew/cask
-cask alfred
-cask bitbar
-cask google-chrome
-cask iina
-cask launchrocket
-cask macpass
-cask simplecap
+cask alacritty
+cask amethyst
+cask firefox
+cask google-japanese-ime
+cask iterm2
+cask macdown
+cask pennywise
 cask vivaldi
 cask xmind
 
@@ -253,13 +253,13 @@ tap sanemat/font
 brew ricty --with-powerline
 
 # Other Cask applications
-cask amethyst
-cask firefox
-cask google-japanese-ime
-cask iterm2
-cask macdown
-cask pennywise
-cask upterm
+cask alfred
+cask bitbar
+cask google-chrome
+cask iina
+cask launchrocket
+cask macpass
+cask simplecap
 cask vlc
 cask xquartz
 
