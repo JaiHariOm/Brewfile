@@ -3,6 +3,7 @@
 
 tap homebrew/core
 brew ack
+brew aom
 brew atk
 brew atool
 brew autoconf
@@ -90,6 +91,8 @@ brew libmpc
 brew libogg
 brew libomp
 brew libpng
+brew libsamplerate
+brew libsndfile
 brew libsodium
 brew libspiro
 brew libtasn1
@@ -156,6 +159,7 @@ brew rename
 brew ripgrep
 brew rmtrash
 brew rtmpdump
+brew rubberband
 brew ruby
 brew ruby-build
 brew screen
