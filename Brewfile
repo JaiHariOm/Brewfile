@@ -80,7 +80,9 @@ brew kubernetes-cli
 brew lame
 brew leptonica
 brew libao
+brew libarchive
 brew libass
+brew libbluray
 brew libcaca
 brew libcue
 brew libevent
@@ -94,6 +96,7 @@ brew libpng
 brew libsamplerate
 brew libsndfile
 brew libsodium
+brew libsoxr
 brew libspiro
 brew libtasn1
 brew libtermkey
@@ -181,6 +184,7 @@ brew tmuxinator-completion
 brew toilet
 brew trash
 brew tree
+brew uchardet
 brew unibilium
 brew utf8proc
 brew vapoursynth
