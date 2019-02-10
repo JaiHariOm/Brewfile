@@ -85,9 +85,11 @@ brew libass
 brew libbluray
 brew libcaca
 brew libcue
+brew libde265
 brew libevent
 brew libexif
 brew libffi
+brew libheif
 brew libidn2
 brew libmpc
 brew libogg
