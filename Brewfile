@@ -209,10 +209,6 @@ brew zsh
 brew zsh-completions
 brew zsh-syntax-highlighting
 
-tap homebrew/binary
-
-tap homebrew/boneyard
-
 tap homebrew/cask-fonts
 cask font-hack-nerd-font
 
@@ -348,7 +344,7 @@ appstore 425955336 Skitch (2.8.2)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 978408712 Syte (1.3.0)
 appstore 905944937 Textwell (1.5.4)
-appstore 425424353 The Unarchiver (4.0.0)
+appstore 425424353 The Unarchiver (4.1.0)
 appstore 485812721 TweetDeck (3.10)
 appstore 970502923 Typeeto (1.4.3)
 appstore 461369673 VOX (3.3.7)
