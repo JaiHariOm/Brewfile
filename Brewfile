@@ -49,6 +49,7 @@ brew gist
 brew git
 brew git-flow
 brew git-standup
+brew gitbucket
 brew glib
 brew glib-networking
 brew gmp
