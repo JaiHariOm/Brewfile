@@ -189,6 +189,7 @@ brew toilet
 brew trash
 brew tree
 brew uchardet
+brew unbound
 brew unibilium
 brew utf8proc
 brew vapoursynth
