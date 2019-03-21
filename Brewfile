@@ -135,6 +135,7 @@ brew neovim
 brew nettle
 brew nginx
 brew nkf
+brew nnn
 brew node
 brew opencore-amr
 brew openexr
