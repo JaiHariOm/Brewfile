@@ -23,6 +23,7 @@ brew dnsmasq
 brew dosfstools
 brew e2fsprogs
 brew entr
+brew exiftool
 brew faad2
 brew fasd
 brew fd
@@ -31,6 +32,7 @@ brew ffmpeg
 brew ffmpegthumbnailer
 brew fftw
 brew figlet
+brew findutils
 brew fish
 brew flac
 brew fontconfig
@@ -39,6 +41,7 @@ brew freetype
 brew frei0r
 brew fribidi
 brew fzf
+brew fzy
 brew gcc
 brew gdbm
 brew gdk-pixbuf
@@ -124,6 +127,7 @@ brew markdown
 brew mas
 brew media-info
 brew megatools
+brew moreutils
 brew mp4v2
 brew mpfr
 brew mplayer
@@ -188,6 +192,7 @@ brew tmux
 brew tmuxinator-completion
 brew toilet
 brew trash
+brew trash-cli
 brew tree
 brew uchardet
 brew unbound
