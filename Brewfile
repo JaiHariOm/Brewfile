@@ -19,9 +19,11 @@ brew cmus
 brew coreutils
 brew czmq
 brew diff-so-fancy
+brew diffutils
 brew dnsmasq
 brew dosfstools
 brew e2fsprogs
+brew ed
 brew entr
 brew exiftool
 brew faad2
@@ -42,6 +44,7 @@ brew frei0r
 brew fribidi
 brew fzf
 brew fzy
+brew gawk
 brew gcc
 brew gdbm
 brew gdk-pixbuf
@@ -56,6 +59,8 @@ brew gitbucket
 brew glib
 brew glib-networking
 brew gmp
+brew gnu-sed
+brew gnu-tar
 brew gnutls
 brew go
 brew gobject-introspection
@@ -66,6 +71,7 @@ brew groff
 brew gsettings-desktop-schemas
 brew gtk+
 brew gtk-engines
+brew gzip
 brew harfbuzz
 brew hicolor-icon-theme
 brew highlight
@@ -81,6 +87,7 @@ brew isl
 brew jemalloc
 brew joplin
 brew jpeg
+brew jq
 brew kubernetes-cli
 brew lame
 brew leptonica
@@ -121,6 +128,7 @@ brew lua
 brew lua@5.1
 brew luajit
 brew luarocks
+brew lv
 brew lynx
 brew mad
 brew markdown
@@ -141,6 +149,7 @@ brew nginx
 brew nkf
 brew nnn
 brew node
+brew oniguruma
 brew opencore-amr
 brew openexr
 brew openjpeg
@@ -149,6 +158,7 @@ brew openssl
 brew openssl@1.1
 brew opus
 brew p11-kit
+brew pandoc
 brew pango
 brew pcre
 brew pcre2
@@ -179,6 +189,7 @@ brew screenfetch
 brew sdl2
 brew shared-mime-info
 brew shellcheck
+brew sift
 brew snappy
 brew speex
 brew sphinx-doc
@@ -200,11 +211,13 @@ brew utf8proc
 brew vapoursynth
 brew vimpager
 brew w3m
+brew wdiff
 brew webp
 brew wget
 brew x264
 brew x265
 brew xclip
+brew xmlstarlet
 brew xpdf
 brew xvid
 brew xz
