@@ -90,6 +90,7 @@ brew jpeg
 brew jq
 brew kubernetes-cli
 brew lame
+brew lazygit
 brew leptonica
 brew libao
 brew libarchive
@@ -258,7 +259,6 @@ tap crisidev/chunkwm
 tap domt4/autoupdate
 
 tap jesseduffield/lazygit
-brew lazygit
 
 tap keith/formulae
 brew reminders-cli
