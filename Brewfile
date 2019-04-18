@@ -208,6 +208,7 @@ brew tree
 brew uchardet
 brew unbound
 brew unibilium
+brew unrar
 brew utf8proc
 brew vapoursynth
 brew vimpager
@@ -364,4 +365,4 @@ appstore 485812721 TweetDeck (3.16)
 appstore 461369673 VOX (3.3.7)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.10)
-appstore 497799835 Xcode (10.2)
+appstore 497799835 Xcode (10.2.1)
