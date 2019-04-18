@@ -14,6 +14,7 @@ brew bdw-gc
 brew boost
 brew cairo
 brew cheat
+brew cmake
 brew cmatrix
 brew cmus
 brew coreutils
@@ -113,6 +114,7 @@ brew libsndfile
 brew libsodium
 brew libsoxr
 brew libspiro
+brew libssh2
 brew libtasn1
 brew libtermkey
 brew libtiff
@@ -136,6 +138,7 @@ brew markdown
 brew mas
 brew media-info
 brew megatools
+brew mono
 brew moreutils
 brew mp4v2
 brew mpfr
@@ -185,6 +188,7 @@ brew rtmpdump
 brew rubberband
 brew ruby
 brew ruby-build
+brew rust
 brew screen
 brew screenfetch
 brew sdl2
