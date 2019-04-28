@@ -231,6 +231,7 @@ brew youtube-dl
 brew z
 brew zeromq
 brew zimg
+brew zlib
 brew zplug
 brew zsh
 brew zsh-completions
