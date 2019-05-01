@@ -127,6 +127,7 @@ brew libvpx
 brew libvterm
 brew libyaml
 brew little-cms2
+brew lolcat
 brew lua
 brew lua@5.1
 brew luajit
