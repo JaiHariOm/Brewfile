@@ -279,6 +279,9 @@ tap neovim/neovim
 tap rcmdnk/file
 brew brew-file
 
+tap rcmdnk/rcmdnkpac
+brew screenutf8 --utf8 --HEAD
+
 tap sanemat/font
 brew ricty --with-powerline
 
