@@ -190,7 +190,6 @@ brew rubberband
 brew ruby
 brew ruby-build
 brew rust
-brew screen
 brew screenfetch
 brew sdl2
 brew shared-mime-info
