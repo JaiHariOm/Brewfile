@@ -155,6 +155,7 @@ brew nkf
 brew nnn
 brew node
 brew oniguruma
+brew open-mpi
 brew opencore-amr
 brew openexr
 brew openjpeg
