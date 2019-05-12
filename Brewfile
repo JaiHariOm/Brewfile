@@ -216,6 +216,7 @@ brew unibilium
 brew unrar
 brew utf8proc
 brew vapoursynth
+brew vifm
 brew vimpager
 brew w3m
 brew wdiff
