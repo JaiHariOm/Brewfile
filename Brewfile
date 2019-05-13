@@ -259,6 +259,9 @@ cask xmind
 
 tap argon/mas
 
+tap beeftornado/rmtree
+brew brew-rmtree
+
 tap coteditor/coteditor
 brew cot
 
