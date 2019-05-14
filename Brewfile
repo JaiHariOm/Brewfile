@@ -144,7 +144,6 @@ brew moreutils
 brew mp4v2
 brew mpfr
 brew mplayer
-brew mpv
 brew msgpack
 brew mujs
 brew ncurses
