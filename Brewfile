@@ -71,7 +71,6 @@ brew grep
 brew groff
 brew gsettings-desktop-schemas
 brew gtk+
-brew gtk-engines
 brew gzip
 brew harfbuzz
 brew hicolor-icon-theme
@@ -287,6 +286,9 @@ brew screenutf8 --utf8 --HEAD
 
 tap sanemat/font
 brew ricty --with-powerline
+
+# Other Homebrew packages
+brew gtk-engines
 
 # Other Cask applications
 cask alfred
