@@ -93,7 +93,6 @@ brew lame
 brew lazygit
 brew leptonica
 brew libao
-brew libarchive
 brew libass
 brew libbluray
 brew libcaca
@@ -208,7 +207,6 @@ brew tmuxinator-completion
 brew toilet
 brew trash-cli
 brew tree
-brew uchardet
 brew unbound
 brew unibilium
 brew unrar
