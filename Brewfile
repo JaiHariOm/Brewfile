@@ -194,6 +194,7 @@ brew shared-mime-info
 brew shellcheck
 brew sift
 brew snappy
+brew speedtest-cli
 brew speex
 brew sphinx-doc
 brew sqlite
@@ -347,7 +348,7 @@ appstore 948620309  (3.1)
 appstore 425264550  (3.2)
 appstore 492615400  (3.6.12)
 appstore 696977615  (3.7.3)
-appstore 1024640650  (3.7.3)
+appstore 1024640650  (3.7.4)
 appstore 1081413713  (3.9.5)
 appstore 948415170  (4)
 appstore 668208984  (4.1)
