@@ -132,6 +132,7 @@ brew luajit
 brew luarocks
 brew lv
 brew lynx
+brew lzo
 brew mad
 brew markdown
 brew mas
