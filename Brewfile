@@ -56,7 +56,6 @@ brew gist
 brew git
 brew git-flow
 brew git-standup
-brew gitbucket
 brew glib
 brew glib-networking
 brew gmp
@@ -78,6 +77,7 @@ brew highlight
 brew htop
 brew hub
 brew hugo
+brew hwloc
 brew icu4c
 brew ilmbase
 brew imagemagick
@@ -161,6 +161,7 @@ brew openmotif
 brew openssl
 brew openssl@1.1
 brew opus
+brew opusfile
 brew p11-kit
 brew pandoc
 brew pango
@@ -308,7 +309,7 @@ appstore 948620309 AirBrowser (3.1)
 appstore 974971992 Alternote (1.0.18)
 appstore 918207447 Annotate (2.1.4)
 appstore 1122124521 Awesome Desktop Switcher (1.5.6)
-appstore 808501572 Backgrounds (7.2)
+appstore 808501572 Backgrounds (7.3)
 appstore 490461369 Bandwidth+ (1.15)
 appstore 1041381991 Beautiful Earth (1.0)
 appstore 500154009 Bitdefender Virus Scanner (3.12)
@@ -321,14 +322,14 @@ appstore 523620159 CleanMyDrive 2 (2.1.13)
 appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
-appstore 1035236694 Commander One (2.1)
+appstore 1035236694 Commander One (2.2)
 appstore 1024640650 CotEditor (3.7.8)
 appstore 425264550 Disk Speed Test (3.2)
 appstore 522349879 DM1 (3.1)
 appstore 921458519 Dr. Cleaner (2.1.0)
 appstore 411673888 EasyFind (4.9.3)
 appstore 527555438 Enigma (1.0.1)
-appstore 406056744 Evernote (7.11)
+appstore 406056744 Evernote (7.12)
 appstore 1080403671 Falling Hearts (1.1)
 appstore 1042588206 Flaticon (1.4)
 appstore 417976220 Freeway Express AS (5.6.6)
@@ -348,15 +349,15 @@ appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000013000)
 appstore 472226235 LanScan (6.2.1)
 appstore 950145466 Letterspace (1.7.2)
-appstore 1005088137 Mate Translate (6.0.6)
+appstore 1005088137 Mate Translate (6.0.7)
 appstore 451444120 Memory Clean (6.6)
 appstore 1014850245 Monit (2.0)
 appstore 862961526 Notebooks (1.4.5)
-appstore 823766827 OneDrive (19.103.0527)
+appstore 823766827 OneDrive (19.123.0624)
 appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (8.1)
-appstore 885120167 Particulars (25)
-appstore 967805235 Paste (2.4.3)
+appstore 885120167 Particulars (26)
+appstore 967805235 Paste (2.4.4)
 appstore 942568098 Patina (1.1.4)
 appstore 951110823 Photo & Video HDR (1.5)
 appstore 787013995 Piccam Uploader (2.1)
@@ -368,7 +369,7 @@ appstore 948415170 Pushbullet (4)
 appstore 965442961 QuickShot (2.1)
 appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
-appstore 692867256 Simplenote (1.5.0)
+appstore 692867256 Simplenote (1.6.1)
 appstore 425955336 Skitch (2.8.4)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 978408712 Syte (1.3.0)
@@ -377,7 +378,7 @@ appstore 425424353 The Unarchiver (4.1.0)
 appstore 485812721 TweetDeck (3.16.1)
 appstore 461369673 VOX (3.3.10)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 410628904 Wunderlist (3.4.11)
+appstore 410628904 Wunderlist (3.4.12)
 appstore 497799835 Xcode (10.3)
 appstore 492068728 Yummy FTP Pro (1.11.17)
 appstore 530461386 Yummy FTP Watcher (2.2.17)
