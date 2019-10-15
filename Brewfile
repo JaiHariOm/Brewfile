@@ -153,6 +153,7 @@ brew nginx
 brew nkf
 brew nnn
 brew node
+brew nushell
 brew oniguruma
 brew open-mpi
 brew opencore-amr
@@ -324,7 +325,7 @@ appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
 appstore 1035236694 Commander One (2.2)
-appstore 1024640650 CotEditor (3.8.0)
+appstore 1024640650 CotEditor (3.8.2)
 appstore 425264550 Disk Speed Test (3.2)
 appstore 522349879 DM1 (3.1)
 appstore 921458519 Dr. Cleaner (2.1.0)
@@ -350,7 +351,7 @@ appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000013000)
 appstore 472226235 LanScan (6.2.1)
 appstore 950145466 Letterspace (1.7.2)
-appstore 1005088137 Mate Translate (6.1.1)
+appstore 1005088137 Mate Translate (6.1.2)
 appstore 451444120 Memory Clean (6.6)
 appstore 1014850245 Monit (2.0)
 appstore 862961526 Notebooks (1.4.5)
