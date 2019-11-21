@@ -22,6 +22,7 @@ brew czmq
 brew diff-so-fancy
 brew diffutils
 brew dnsmasq
+brew docutils
 brew dosfstools
 brew e2fsprogs
 brew ed
@@ -93,6 +94,7 @@ brew lame
 brew lazygit
 brew leptonica
 brew libao
+brew libarchive
 brew libass
 brew libbluray
 brew libcaca
@@ -146,6 +148,7 @@ brew mpfr
 brew mplayer
 brew msgpack
 brew mujs
+brew nasm
 brew ncurses
 brew neovim
 brew nettle
@@ -204,6 +207,7 @@ brew sphinx-doc
 brew sqlite
 brew terminal-notifier
 brew tesseract
+brew texi2html
 brew the_silver_searcher
 brew theora
 brew tig
@@ -212,6 +216,7 @@ brew tmuxinator-completion
 brew toilet
 brew trash-cli
 brew tree
+brew uchardet
 brew unbound
 brew unibilium
 brew unrar
@@ -270,6 +275,10 @@ tap crisidev/chunkwm
 
 tap domt4/autoupdate
 
+tap iina/mpv-iina
+brew ffmpeg-iina
+brew mpv-iina
+
 tap jesseduffield/lazygit
 
 tap keith/formulae
@@ -312,7 +321,7 @@ appstore 974971992 Alternote (1.0.18)
 appstore 918207447 Annotate (2.1.4)
 appstore 1122124521 Awesome Desktop Switcher (1.5.6)
 appstore 808501572 Backgrounds (7.3)
-appstore 490461369 Bandwidth+ (1.15)
+appstore 490461369 Bandwidth+ (1.16)
 appstore 1041381991 Beautiful Earth (1.0)
 appstore 500154009 Bitdefender Virus Scanner (3.15)
 appstore 955293604 Blik (1.5.5)
@@ -320,12 +329,12 @@ appstore 657791564 Briqs (1.2.7)
 appstore 1081203896 BrowserFreedom (1.4.1)
 appstore 545988675 Bubble Browser (2.1.2)
 appstore 696977615 Capo (3.8.1)
-appstore 523620159 CleanMyDrive 2 (2.1.13)
+appstore 523620159 CleanMyDrive 2 (2.1.14)
 appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
 appstore 1035236694 Commander One (2.2)
-appstore 1024640650 CotEditor (3.8.4)
+appstore 1024640650 CotEditor (3.8.5)
 appstore 425264550 Disk Speed Test (3.2)
 appstore 522349879 DM1 (3.1)
 appstore 921458519 Dr. Cleaner (2.1.0)
@@ -346,7 +355,7 @@ appstore 408981381 iPhoto (9.6.1)
 appstore 765282854 iQuickMark (1.5.0)
 appstore 492615400 iRamDisk (3.6.12)
 appstore 934011232 Jeff (1.0)
-appstore 409183694 Keynote (9.2)
+appstore 409183694 Keynote (9.2.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000013000)
 appstore 472226235 LanScan (6.2.1)
@@ -357,14 +366,14 @@ appstore 1014850245 Monit (2.0)
 appstore 862961526 Notebooks (1.4.5)
 appstore 823766827 OneDrive (19.152.1013)
 appstore 1054519713 Open In (1.0.2)
-appstore 409201541 Pages (8.2)
-appstore 885120167 Particulars (26)
+appstore 409201541 Pages (8.2.1)
+appstore 885120167 Particulars (27)
 appstore 967805235 Paste (2.5.2)
 appstore 942568098 Patina (1.1.4)
 appstore 951110823 Photo & Video HDR (1.5)
 appstore 787013995 Piccam Uploader (2.1)
 appstore 1160374471 PiPifier (1.2.4)
-appstore 407963104 Pixelmator (3.8.8)
+appstore 407963104 Pixelmator (3.9)
 appstore 568494494 Pocket (1.8.5)
 appstore 445189367 PopClip (2019.9.1)
 appstore 948415170 Pushbullet (4)
@@ -373,7 +382,6 @@ appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
 appstore 692867256 Simplenote (1.7.0)
 appstore 425955336 Skitch (2.8.4)
-appstore 863015334 Sparkle (2.8.4)
 appstore 1153157709 Speedtest (1.7)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 978408712 Syte (1.3.0)
@@ -383,6 +391,6 @@ appstore 485812721 TweetDeck (3.16.1)
 appstore 461369673 VOX (3.3.13)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.20)
-appstore 497799835 Xcode (11.2)
+appstore 497799835 Xcode (11.2.1)
 appstore 492068728 Yummy FTP Pro (1.11.17)
 appstore 530461386 Yummy FTP Watcher (2.2.17)
