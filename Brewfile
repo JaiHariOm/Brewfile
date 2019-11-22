@@ -163,7 +163,6 @@ brew opencore-amr
 brew openexr
 brew openjpeg
 brew openmotif
-brew openssl
 brew openssl@1.1
 brew opus
 brew opusfile
