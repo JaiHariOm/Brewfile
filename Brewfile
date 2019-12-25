@@ -31,6 +31,7 @@ brew exiftool
 brew faad2
 brew fasd
 brew fd
+brew fdupes
 brew feh
 brew ffmpeg
 brew ffmpegthumbnailer
@@ -338,7 +339,7 @@ appstore 522349879 DM1 (3.1)
 appstore 921458519 Dr. Cleaner (2.1.0)
 appstore 411673888 EasyFind (4.9.3)
 appstore 527555438 Enigma (1.0.1)
-appstore 406056744 Evernote (7.13)
+appstore 406056744 Evernote (7.14)
 appstore 1080403671 Falling Hearts (1.1)
 appstore 1042588206 Flaticon (1.4)
 appstore 682658836 GarageBand (10.3.4)
