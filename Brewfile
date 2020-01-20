@@ -255,14 +255,23 @@ tap homebrew/services
 
 tap homebrew/cask
 cask alacritty
+cask alfred
 cask amethyst
+cask bitbar
 cask firefox
+cask google-chrome
 cask google-japanese-ime
+cask iina
 cask iterm2
+cask launchrocket
 cask macdown
+cask macpass
 cask pennywise
+cask simplecap
 cask vivaldi
+cask vlc
 cask xmind
+cask xquartz
 
 tap argon/mas
 
@@ -286,7 +295,6 @@ tap keith/formulae
 brew reminders-cli
 
 tap koekeishiya/formulae
-brew chunkwm
 brew skhd
 
 tap neovim/neovim
@@ -301,18 +309,8 @@ tap sanemat/font
 brew ricty --with-powerline
 
 # Other Homebrew packages
+brew chunkwm
 brew gtk-engines
-
-# Other Cask applications
-cask alfred
-cask bitbar
-cask google-chrome
-cask iina
-cask launchrocket
-cask macpass
-cask simplecap
-cask vlc
-cask xquartz
 
 # App Store applications
 appstore 957147922  (2.7)
@@ -328,7 +326,7 @@ appstore 955293604 Blik (1.5.5)
 appstore 1081203896 BrowserFreedom (1.4.1)
 appstore 545988675 Bubble Browser (2.1.2)
 appstore 696977615 Capo (3.8.1)
-appstore 523620159 CleanMyDrive 2 (2.1.14)
+appstore 523620159 CleanMyDrive 2 (2.1.18)
 appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
@@ -360,7 +358,7 @@ appstore 472226235 LanScan (6.2.1)
 appstore 950145466 Letterspace (1.7.2)
 appstore 1005088137 Mate Translate (6.1.4)
 appstore 451444120 Memory Clean (6.6)
-appstore 1014850245 Monit (2.0)
+appstore 1014850245 Monit (2.0.1)
 appstore 862961526 Notebooks (1.4.5)
 appstore 823766827 OneDrive (19.192.0926)
 appstore 1054519713 Open In (1.0.2)
@@ -378,17 +376,17 @@ appstore 948415170 Pushbullet (4)
 appstore 965442961 QuickShot (2.1)
 appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
-appstore 692867256 Simplenote (1.8.1)
+appstore 692867256 Simplenote (1.9)
 appstore 425955336 Skitch (2.8.4)
-appstore 1153157709 Speedtest (1.8)
+appstore 1153157709 Speedtest (1.9)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 905944937 Textwell (1.6)
 appstore 425424353 The Unarchiver (4.1.0)
 appstore 485812721 TweetDeck (3.16.1)
-appstore 1482454543 Twitter (8.4.2)
+appstore 1482454543 Twitter (8.5)
 appstore 461369673 VOX (3.3.15)
 appstore 414855915 WinArchiver Lite (2.5.3)
-appstore 410628904 Wunderlist (3.4.20)
-appstore 497799835 Xcode (11.3)
+appstore 410628904 Wunderlist (3.4.21)
+appstore 497799835 Xcode (11.3.1)
 appstore 492068728 Yummy FTP Pro (1.11.17)
 appstore 530461386 Yummy FTP Watcher (2.2.17)
