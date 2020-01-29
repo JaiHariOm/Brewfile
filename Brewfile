@@ -267,7 +267,15 @@ cask launchrocket
 cask macdown
 cask macpass
 cask pennywise
+cask qlcolorcode
+cask qlimagesize
+cask qlmarkdown
+cask qlstephen
+cask qlvideo
+cask quicklook-json
+cask quicklookase
 cask simplecap
+cask suspicious-package
 cask vivaldi
 cask vlc
 cask xmind
@@ -280,8 +288,6 @@ brew brew-rmtree
 
 tap coteditor/coteditor
 brew cot
-
-tap crisidev/chunkwm
 
 tap domt4/autoupdate
 
@@ -296,6 +302,7 @@ brew reminders-cli
 
 tap koekeishiya/formulae
 brew skhd
+brew yabai
 
 tap neovim/neovim
 
@@ -309,7 +316,6 @@ tap sanemat/font
 brew ricty --with-powerline
 
 # Other Homebrew packages
-brew chunkwm
 brew gtk-engines
 
 # App Store applications
@@ -331,7 +337,7 @@ appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (1.4.12)
 appstore 1064152481 ColorDial (1.6)
 appstore 1035236694 Commander One (2.4)
-appstore 1024640650 CotEditor (3.8.7)
+appstore 1024640650 CotEditor (3.8.8)
 appstore 425264550 Disk Speed Test (3.2)
 appstore 522349879 DM1 (3.1)
 appstore 921458519 Dr. Cleaner (2.1.0)
@@ -354,7 +360,7 @@ appstore 934011232 Jeff (1.0)
 appstore 409183694 Keynote (9.2.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000013000)
-appstore 472226235 LanScan (6.2.1)
+appstore 472226235 LanScan (6.3.0)
 appstore 950145466 Letterspace (1.7.2)
 appstore 1005088137 Mate Translate (6.1.4)
 appstore 451444120 Memory Clean (6.6)
@@ -378,12 +384,12 @@ appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
 appstore 692867256 Simplenote (1.9)
 appstore 425955336 Skitch (2.8.4)
-appstore 1153157709 Speedtest (1.9)
+appstore 1153157709 Speedtest (1.10)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 905944937 Textwell (1.6)
 appstore 425424353 The Unarchiver (4.1.0)
 appstore 485812721 TweetDeck (3.16.1)
-appstore 1482454543 Twitter (8.5)
+appstore 1482454543 Twitter (8.6)
 appstore 461369673 VOX (3.3.15)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.21)
