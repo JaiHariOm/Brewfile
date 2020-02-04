@@ -258,6 +258,7 @@ cask alacritty
 cask alfred
 cask amethyst
 cask bitbar
+cask blackhole
 cask firefox
 cask google-chrome
 cask google-japanese-ime
