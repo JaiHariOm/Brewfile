@@ -180,7 +180,6 @@ brew popt
 brew pyenv
 brew pyenv-virtualenv
 brew python
-brew python@2
 brew python@3.8
 brew qt
 brew ranger
@@ -318,6 +317,7 @@ brew ricty --with-powerline
 
 # Other Homebrew packages
 brew gtk-engines
+brew python@2
 
 # App Store applications
 appstore 957147922  (2.7)
