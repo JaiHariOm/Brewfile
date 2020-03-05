@@ -223,6 +223,7 @@ brew unrar
 brew utf8proc
 brew vapoursynth
 brew vifm
+brew vim
 brew vimpager
 brew w3m
 brew wdiff
@@ -336,7 +337,7 @@ appstore 545988675 Bubble Browser (2.1.2)
 appstore 696977615 Capo (3.8.1)
 appstore 523620159 CleanMyDrive 2 (2.1.18)
 appstore 563362017 CloudClip Manager (1.3.5)
-appstore 1021284423 CodePiece (2.1.3)
+appstore 1021284423 CodePiece (2.1.5)
 appstore 1064152481 ColorDial (1.6)
 appstore 1035236694 Commander One (2.4.1)
 appstore 1024640650 CotEditor (3.8.11)
@@ -392,7 +393,7 @@ appstore 984278082 Tag Editor Free (1.0.8)
 appstore 905944937 Textwell (1.6)
 appstore 425424353 The Unarchiver (4.1.0)
 appstore 485812721 TweetDeck (3.16.1)
-appstore 1482454543 Twitter (8.10)
+appstore 1482454543 Twitter (8.11)
 appstore 461369673 VOX (3.3.17)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.22)
