@@ -97,6 +97,7 @@ brew leptonica
 brew libao
 brew libarchive
 brew libass
+brew libb2
 brew libbluray
 brew libcaca
 brew libcue
@@ -136,6 +137,7 @@ brew luajit
 brew luarocks
 brew lv
 brew lynx
+brew lz4
 brew lzo
 brew mad
 brew markdown
@@ -245,6 +247,7 @@ brew zplug
 brew zsh
 brew zsh-completions
 brew zsh-syntax-highlighting
+brew zstd
 
 tap homebrew/cask-fonts
 cask font-hack-nerd-font
