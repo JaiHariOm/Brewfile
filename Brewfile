@@ -13,6 +13,7 @@ brew bash-completion
 brew bdw-gc
 brew boost
 brew cairo
+brew cfitsio
 brew cheat
 brew cmake
 brew cmatrix
@@ -74,6 +75,7 @@ brew gsettings-desktop-schemas
 brew gtk+
 brew gzip
 brew harfbuzz
+brew hdf5
 brew hicolor-icon-theme
 brew highlight
 brew htop
@@ -100,17 +102,22 @@ brew libass
 brew libb2
 brew libbluray
 brew libcaca
+brew libcroco
 brew libcue
 brew libde265
 brew libevent
 brew libexif
 brew libffi
+brew libgsf
 brew libheif
 brew libidn2
+brew libimagequant
+brew libmatio
 brew libmpc
 brew libogg
 brew libomp
 brew libpng
+brew librsvg
 brew libsamplerate
 brew libsndfile
 brew libsodium
@@ -128,6 +135,7 @@ brew libvidstab
 brew libvorbis
 brew libvpx
 brew libvterm
+brew libxml2
 brew libyaml
 brew little-cms2
 brew lolcat
@@ -146,6 +154,7 @@ brew media-info
 brew megatools
 brew mono
 brew moreutils
+brew mozjpeg
 brew mp4v2
 brew mpfr
 brew mplayer
@@ -159,6 +168,8 @@ brew nginx
 brew nkf
 brew nnn
 brew node
+brew nspr
+brew nss
 brew nushell
 brew oniguruma
 brew open-mpi
@@ -166,9 +177,11 @@ brew opencore-amr
 brew openexr
 brew openjpeg
 brew openmotif
+brew openslide
 brew openssl@1.1
 brew opus
 brew opusfile
+brew orc
 brew p11-kit
 brew pandoc
 brew pango
@@ -178,6 +191,7 @@ brew peco
 brew perl
 brew pixman
 brew pkg-config
+brew poppler
 brew popt
 brew pyenv
 brew pyenv-virtualenv
@@ -207,6 +221,7 @@ brew speedtest-cli
 brew speex
 brew sphinx-doc
 brew sqlite
+brew szip
 brew terminal-notifier
 brew tesseract
 brew texi2html
@@ -227,6 +242,7 @@ brew vapoursynth
 brew vifm
 brew vim
 brew vimpager
+brew vips
 brew w3m
 brew wdiff
 brew webp
