@@ -89,7 +89,6 @@ brew imlib2
 brew intltool
 brew isl
 brew jemalloc
-brew joplin
 brew jpeg
 brew jq
 brew kubernetes-cli
@@ -191,7 +190,6 @@ brew peco
 brew perl
 brew pixman
 brew pkg-config
-brew poppler
 brew popt
 brew pyenv
 brew pyenv-virtualenv
@@ -242,7 +240,6 @@ brew vapoursynth
 brew vifm
 brew vim
 brew vimpager
-brew vips
 brew w3m
 brew wdiff
 brew webp
