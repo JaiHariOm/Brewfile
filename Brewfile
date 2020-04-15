@@ -10,6 +10,7 @@ brew autoconf
 brew automake
 brew bash
 brew bash-completion
+brew bat
 brew bdw-gc
 brew boost
 brew cairo
@@ -28,6 +29,7 @@ brew dosfstools
 brew e2fsprogs
 brew ed
 brew entr
+brew exa
 brew exiftool
 brew faad2
 brew fasd
@@ -185,6 +187,7 @@ brew orc
 brew p11-kit
 brew pandoc
 brew pango
+brew pastel
 brew pcre
 brew pcre2
 brew peco
