@@ -343,7 +343,7 @@ brew python@2
 # App Store applications
 appstore 957147922  (2.7)
 appstore 1130586858 3D Organon Anatomy - Skeleton, Bones, and Ligaments (1.0)
-appstore 948620309 AirBrowser (3.1)
+appstore 948620309 AirBrowser (3.2.0)
 appstore 974971992 Alternote (1.0.18)
 appstore 918207447 Annotate (2.1.4)
 appstore 1122124521 Awesome Desktop Switcher (1.5.6)
