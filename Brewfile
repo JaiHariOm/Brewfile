@@ -38,6 +38,7 @@ brew fdupes
 brew feh
 brew ffmpeg
 brew ffmpegthumbnailer
+brew ffms2
 brew fftw
 brew figlet
 brew findutils
@@ -241,6 +242,9 @@ brew unibilium
 brew unrar
 brew utf8proc
 brew vapoursynth
+brew vapoursynth-imwri
+brew vapoursynth-ocr
+brew vapoursynth-sub
 brew vifm
 brew vim
 brew vimpager
