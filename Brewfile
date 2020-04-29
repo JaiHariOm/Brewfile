@@ -224,6 +224,7 @@ brew speedtest-cli
 brew speex
 brew sphinx-doc
 brew sqlite
+brew srt
 brew szip
 brew terminal-notifier
 brew tesseract
