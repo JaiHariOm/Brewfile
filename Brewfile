@@ -21,6 +21,7 @@ brew cmatrix
 brew cmus
 brew coreutils
 brew czmq
+brew dav1d
 brew diff-so-fancy
 brew diffutils
 brew dnsmasq
