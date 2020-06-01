@@ -332,8 +332,6 @@ tap keith/formulae
 brew reminders-cli
 
 tap koekeishiya/formulae
-brew skhd
-brew yabai
 
 tap neovim/neovim
 
