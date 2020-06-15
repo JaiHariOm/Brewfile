@@ -119,6 +119,7 @@ brew libgsf
 brew libheif
 brew libidn2
 brew libimagequant
+brew liblqr
 brew libmatio
 brew libmpc
 brew libogg
