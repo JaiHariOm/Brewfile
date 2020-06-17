@@ -347,7 +347,6 @@ brew ricty --with-powerline
 
 # Other Homebrew packages
 brew gtk-engines
-brew python@2
 
 # App Store applications
 appstore 957147922  (2.7)
