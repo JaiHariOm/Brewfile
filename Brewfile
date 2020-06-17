@@ -207,6 +207,7 @@ brew python
 brew python@3.8
 brew qt
 brew ranger
+brew rav1e
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -344,9 +345,6 @@ brew screenutf8 --utf8 --HEAD
 
 tap sanemat/font
 brew ricty --with-powerline
-
-# Other Homebrew packages
-brew gtk-engines
 
 # App Store applications
 appstore 957147922  (2.7)
