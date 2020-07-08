@@ -203,7 +203,6 @@ brew pkg-config
 brew popt
 brew pyenv
 brew pyenv-virtualenv
-brew python
 brew python@3.8
 brew qt
 brew ranger
