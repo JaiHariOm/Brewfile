@@ -306,6 +306,7 @@ cask qlstephen
 cask qlvideo
 cask quicklook-json
 cask quicklookase
+cask qutebrowser
 cask simplecap
 cask suspicious-package
 cask vivaldi
