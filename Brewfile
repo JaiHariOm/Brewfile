@@ -166,6 +166,7 @@ brew mozjpeg
 brew mp4v2
 brew mpfr
 brew mplayer
+brew mps-youtube
 brew msgpack
 brew mujs
 brew nasm
@@ -298,6 +299,7 @@ cask iterm2
 cask launchrocket
 cask macdown
 cask macpass
+cask mpv
 cask pennywise
 cask qlcolorcode
 cask qlimagesize
