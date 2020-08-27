@@ -81,6 +81,7 @@ brew grep
 brew groff
 brew gsettings-desktop-schemas
 brew gtk+
+brew guile
 brew gzip
 brew harfbuzz
 brew hdf5
@@ -380,8 +381,8 @@ appstore 1081413713 GIF Brewery 3 (3.9.5)
 appstore 668208984 GIPHY CAPTURE (4.1)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang Video (2.1)
-appstore 1452453066 Hidden Bar (1.5)
-appstore 408981434 iMovie (10.1.14)
+appstore 1452453066 Hidden Bar (1.6)
+appstore 408981434 iMovie (10.1.15)
 appstore 685953216 Instashare (1.4.6)
 appstore 765282854 iQuickMark (1.5.0)
 appstore 492615400 iRamDisk (3.6.12)
@@ -412,7 +413,7 @@ appstore 819348619 Revisions (3.0.1)
 appstore 965442961 Screenie (2.2.2)
 appstore 692867256 Simplenote (1.12.0)
 appstore 425955336 Skitch (2.9)
-appstore 1153157709 Speedtest (1.15)
+appstore 1153157709 Speedtest (1.16)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 984278082 Tag Editor Free (1.0.8)
 appstore 905944937 Textwell (1.6)
