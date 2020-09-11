@@ -13,6 +13,7 @@ brew bash-completion
 brew bat
 brew bdw-gc
 brew boost
+brew brew-cask-completion
 brew cairo
 brew cfitsio
 brew cheat
