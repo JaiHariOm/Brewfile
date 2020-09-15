@@ -322,6 +322,8 @@ tap argon/mas
 tap beeftornado/rmtree
 brew brew-rmtree
 
+tap buo/cask-upgrade
+
 tap coteditor/coteditor
 brew cot
 
