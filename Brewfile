@@ -311,6 +311,7 @@ cask quicklook-json
 cask quicklookase
 cask qutebrowser
 cask simplecap
+cask surge-synthesizer
 cask suspicious-package
 cask vivaldi
 cask vlc
