@@ -207,6 +207,7 @@ brew popt
 brew pyenv
 brew pyenv-virtualenv
 brew python@3.8
+brew python@3.9
 brew qt
 brew ranger
 brew rav1e
@@ -414,7 +415,7 @@ appstore 948415170 Pushbullet (4)
 appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
 appstore 965442961 Screenie (2.2.3)
-appstore 692867256 Simplenote (2.1)
+appstore 692867256 Simplenote (2.2)
 appstore 425955336 Skitch (2.9)
 appstore 1153157709 Speedtest (1.18)
 appstore 405580712 StuffIt Expander (15.0.7)
