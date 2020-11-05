@@ -356,7 +356,7 @@ brew ricty --with-powerline
 
 # App Store applications
 appstore 957147922  (2.7)
-appstore 472226235  (6.5.3)
+appstore 472226235  (6.5.4)
 appstore 948620309 AirBrowser (3.2.0)
 appstore 974971992 Alternote (1.0.18)
 appstore 918207447 Annotate (2.1.4)
@@ -411,7 +411,7 @@ appstore 787013995 Piccam Uploader (2.1)
 appstore 1160374471 PiPifier (1.2.4)
 appstore 407963104 Pixelmator (3.9)
 appstore 568494494 Pocket (1.8.5)
-appstore 445189367 PopClip (2019.10)
+appstore 445189367 PopClip (2020.10)
 appstore 948415170 Pushbullet (4)
 appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
