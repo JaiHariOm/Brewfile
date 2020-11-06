@@ -127,6 +127,7 @@ brew libmpc
 brew libogg
 brew libomp
 brew libpng
+brew libpthread-stubs
 brew librsvg
 brew libsamplerate
 brew libsndfile
@@ -145,6 +146,11 @@ brew libvidstab
 brew libvorbis
 brew libvpx
 brew libvterm
+brew libx11
+brew libxau
+brew libxcb
+brew libxdmcp
+brew libxext
 brew libxml2
 brew libyaml
 brew little-cms2
@@ -267,6 +273,7 @@ brew x265
 brew xclip
 brew xmlstarlet
 brew xmlto
+brew xorgproto
 brew xpdf
 brew xvid
 brew xz
