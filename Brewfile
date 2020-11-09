@@ -119,6 +119,7 @@ brew libexif
 brew libffi
 brew libgsf
 brew libheif
+brew libice
 brew libidn2
 brew libimagequant
 brew liblqr
@@ -130,6 +131,7 @@ brew libpng
 brew libpthread-stubs
 brew librsvg
 brew libsamplerate
+brew libsm
 brew libsndfile
 brew libsodium
 brew libsoxr
@@ -151,7 +153,13 @@ brew libxau
 brew libxcb
 brew libxdmcp
 brew libxext
+brew libxft
+brew libxinerama
 brew libxml2
+brew libxmu
+brew libxp
+brew libxrender
+brew libxt
 brew libyaml
 brew little-cms2
 brew lolcat
@@ -270,6 +278,7 @@ brew webp
 brew wget
 brew x264
 brew x265
+brew xbitmaps
 brew xclip
 brew xmlstarlet
 brew xmlto
@@ -411,9 +420,9 @@ appstore 862961526 Notebooks (1.4.5)
 appstore 823766827 OneDrive (20.124.0621)
 appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (10.2)
-appstore 885120167 Particulars (32)
+appstore 885120167 Particulars (33)
 appstore 942568098 Patina (1.2)
-appstore 951110823 Photo & Video HDR (1.5)
+appstore 951110823 Photo & Video HDR (1.6)
 appstore 787013995 Piccam Uploader (2.1)
 appstore 1160374471 PiPifier (1.2.4)
 appstore 407963104 Pixelmator (3.9)
@@ -423,7 +432,7 @@ appstore 948415170 Pushbullet (4)
 appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
 appstore 965442961 Screenie (2.2.3)
-appstore 692867256 Simplenote (2.2)
+appstore 692867256 Simplenote (2.3)
 appstore 425955336 Skitch (2.9)
 appstore 1153157709 Speedtest (1.18)
 appstore 405580712 StuffIt Expander (15.0.7)
