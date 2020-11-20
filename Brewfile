@@ -98,6 +98,7 @@ brew imagemagick
 brew imlib2
 brew intltool
 brew isl
+brew jasper
 brew jemalloc
 brew jpeg
 brew jq
@@ -188,6 +189,7 @@ brew mujs
 brew nasm
 brew ncurses
 brew neovim
+brew netpbm
 brew nettle
 brew nginx
 brew nkf
@@ -218,6 +220,7 @@ brew perl
 brew pixman
 brew pkg-config
 brew popt
+brew psutils
 brew pyenv
 brew pyenv-virtualenv
 brew python@3.8
@@ -383,7 +386,7 @@ appstore 955293604 Blik (1.5.5)
 appstore 1497527363 Blurred (1.2.0)
 appstore 1081203896 BrowserFreedom (1.4.1)
 appstore 545988675 Bubble Browser (2.1.2)
-appstore 696977615 Capo (3.8.1)
+appstore 696977615 Capo (4.0)
 appstore 563362017 CloudClip Manager (1.3.5)
 appstore 1021284423 CodePiece (2.1.10)
 appstore 1064152481 ColorDial (1.6)
@@ -417,7 +420,7 @@ appstore 1005088137 Mate Translate (7.0.1)
 appstore 451444120 Memory Clean (6.6)
 appstore 1014850245 Monit (2.0.2)
 appstore 862961526 Notebooks (1.4.5)
-appstore 823766827 OneDrive (20.124.0621)
+appstore 823766827 OneDrive (20.169.0823)
 appstore 1054519713 Open In (1.0.2)
 appstore 409201541 Pages (10.3.5)
 appstore 885120167 Particulars (33)
@@ -438,7 +441,7 @@ appstore 1153157709 Speedtest (1.18)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 984278082 Tag Editor Free (1.0.8)
 appstore 905944937 Textwell (1.6)
-appstore 425424353 The Unarchiver (4.2.2)
+appstore 425424353 The Unarchiver (4.2.4)
 appstore 485812721 TweetDeck (3.16.1)
 appstore 1482454543 Twitter (8.43.11)
 appstore 414855915 WinArchiver Lite (2.5.3)
