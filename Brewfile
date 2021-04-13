@@ -4,6 +4,7 @@
 tap homebrew/core
 brew ack
 brew aom
+brew assimp
 brew atk
 brew atool
 brew autoconf
@@ -12,8 +13,11 @@ brew bash
 brew bash-completion
 brew bat
 brew bdw-gc
+brew berkeley-db
 brew boost
 brew brew-cask-completion
+brew brotli
+brew c-ares
 brew cairo
 brew cfitsio
 brew cheat
@@ -23,6 +27,7 @@ brew cmus
 brew coreutils
 brew czmq
 brew dav1d
+brew dbus
 brew diff-so-fancy
 brew diffutils
 brew dnsmasq
@@ -30,6 +35,7 @@ brew docbook
 brew docbook-xsl
 brew docutils
 brew dosfstools
+brew double-conversion
 brew e2fsprogs
 brew ed
 brew entr
@@ -98,6 +104,7 @@ brew imagemagick
 brew imlib2
 brew intltool
 brew isl
+brew jansson
 brew jasper
 brew jemalloc
 brew jpeg
@@ -115,6 +122,7 @@ brew libcaca
 brew libcroco
 brew libcue
 brew libde265
+brew libev
 brew libevent
 brew libexif
 brew libffi
@@ -129,6 +137,7 @@ brew libmpc
 brew libogg
 brew libomp
 brew libpng
+brew libproxy
 brew libpthread-stubs
 brew librsvg
 brew libsamplerate
@@ -167,11 +176,14 @@ brew lolcat
 brew lua
 brew lua@5.1
 brew luajit
+brew luajit-openresty
 brew luarocks
+brew luv
 brew lv
 brew lynx
 brew lz4
 brew lzo
+brew m4
 brew mad
 brew markdown
 brew mas
@@ -181,6 +193,7 @@ brew mono
 brew moreutils
 brew mozjpeg
 brew mp4v2
+brew mpdecimal
 brew mpfr
 brew mplayer
 brew mps-youtube
@@ -191,6 +204,7 @@ brew ncurses
 brew neovim
 brew netpbm
 brew nettle
+brew nghttp2
 brew nginx
 brew nkf
 brew nnn
@@ -226,6 +240,7 @@ brew pyenv-virtualenv
 brew python@3.8
 brew python@3.9
 brew qt
+brew qt@5
 brew ranger
 brew rav1e
 brew rbenv
@@ -234,7 +249,6 @@ brew readline
 brew reattach-to-user-namespace
 brew rename
 brew ripgrep
-brew rmtrash
 brew rtmpdump
 brew rubberband
 brew ruby
@@ -252,6 +266,7 @@ brew sphinx-doc
 brew sqlite
 brew srt
 brew szip
+brew tcl-tk
 brew terminal-notifier
 brew tesseract
 brew texi2html
@@ -261,12 +276,11 @@ brew tig
 brew tmux
 brew tmuxinator-completion
 brew toilet
-brew trash-cli
+brew trash
 brew tree
 brew uchardet
 brew unbound
 brew unibilium
-brew unrar
 brew utf8proc
 brew vapoursynth
 brew vapoursynth-imwri
@@ -307,16 +321,12 @@ tap homebrew/cask-versions
 
 tap homebrew/services
 
+
 tap homebrew/cask
 cask alacritty
 cask alfred
-cask amethyst
-cask bitbar
-cask blackhole
 cask edex-ui
 cask firefox
-cask google-chrome
-cask google-japanese-ime
 cask iina
 cask iterm2
 cask launchrocket
@@ -331,7 +341,7 @@ cask qlvideo
 cask quicklook-json
 cask quicklookase
 cask qutebrowser
-cask simplecap
+cask rectangle
 cask surge-synthesizer
 cask suspicious-package
 cask vivaldi
@@ -341,10 +351,16 @@ cask xquartz
 
 tap argon/mas
 
+tap b4b4r07/tap
+brew gomi
+
 tap beeftornado/rmtree
 brew brew-rmtree
 
 tap buo/cask-upgrade
+
+tap carlocab/personal
+brew unrar
 
 tap coteditor/coteditor
 brew cot
@@ -373,31 +389,35 @@ brew screenutf8 --utf8 --HEAD
 tap sanemat/font
 brew ricty --with-powerline
 
+# Other Cask applications
+cask blackhole
+cask simplecap
+
 # App Store applications
 appstore 957147922  (2.7)
-appstore 948620309 AirBrowser (3.2.0)
+appstore 948620309 AirBrowser (3.3.0)
 appstore 974971992 Alternote (1.0.18)
 appstore 918207447 Annotate (2.1.4)
 appstore 1122124521 Awesome Desktop Switcher (1.5.6)
-appstore 808501572 Backgrounds (8.1)
+appstore 808501572 Backgrounds (9.0)
 appstore 490461369 Bandwidth+ (1.18)
 appstore 1041381991 Beautiful Earth (1.0)
 appstore 955293604 Blik (1.5.5)
 appstore 1497527363 Blurred (1.2.0)
 appstore 1081203896 BrowserFreedom (1.4.1)
 appstore 545988675 Bubble Browser (2.1.2)
-appstore 696977615 Capo (4.0)
-appstore 563362017 CloudClip Manager (1.3.5)
-appstore 1021284423 CodePiece (2.1.10)
+appstore 696977615 Capo (4.1.1)
+appstore 563362017 CloudClip Manager (1.4.2)
+appstore 1021284423 CodePiece (2.1.11)
 appstore 1064152481 ColorDial (1.6)
-appstore 1024640650 CotEditor (4.0.1)
-appstore 425264550 Disk Speed Test (3.2)
-appstore 522349879 DM1 (3.1.1)
+appstore 1024640650 CotEditor (4.0.2)
+appstore 425264550 Disk Speed Test (3.3)
+appstore 522349879 DM1 (3.1.3)
 appstore 921458519 Dr. Cleaner (2.1.0)
-appstore 963642514 Duplicate Photos Fixer Pro (2.18)
+appstore 963642514 Duplicate Photos Fixer Pro (3.2)
 appstore 411673888 EasyFind (4.9.3)
 appstore 527555438 Enigma (1.0.1)
-appstore 406056744 Evernote (7.14)
+appstore 406056744 Evernote (10.10.5)
 appstore 1080403671 Falling Hearts (1.1)
 appstore 1042588206 Flaticon (1.4)
 appstore 682658836 GarageBand (10.3.5)
@@ -405,47 +425,47 @@ appstore 1081413713 GIF Brewery 3 (3.9.5)
 appstore 668208984 GIPHY CAPTURE (4.1)
 appstore 1088981453 Glass (1.0.1)
 appstore 1050779754 Hang Video (2.1)
-appstore 1452453066 Hidden Bar (1.6)
-appstore 408981434 iMovie (10.2.1)
+appstore 1452453066 Hidden Bar (1.7)
+appstore 408981434 iMovie (10.2.3)
 appstore 685953216 Instashare (1.4.6)
 appstore 765282854 iQuickMark (1.5.0)
 appstore 492615400 iRamDisk (3.6.12)
 appstore 934011232 Jeff (1.0)
-appstore 409183694 Keynote (10.3.5)
+appstore 409183694 Keynote (11.0.1)
 appstore 896624060 Kobito (2.3.8)
 appstore 411213048 LadioCast (000013000)
-appstore 472226235 LanScan (6.5.5)
+appstore 472226235 LanScan (6.5.8)
 appstore 950145466 Letterspace (1.7.2)
-appstore 1005088137 Mate Translate (7.0.1)
+appstore 1005088137 Mate Translate (7.1.0)
 appstore 451444120 Memory Clean (6.6)
 appstore 1014850245 Monit (2.0.2)
 appstore 862961526 Notebooks (1.4.5)
-appstore 823766827 OneDrive (20.169.0823)
+appstore 823766827 OneDrive (21.030.0211)
 appstore 1054519713 Open In (1.0.2)
-appstore 409201541 Pages (10.3.5)
+appstore 409201541 Pages (11.0)
 appstore 885120167 Particulars (34)
 appstore 942568098 Patina (1.2)
 appstore 951110823 Photo & Video HDR (1.6)
 appstore 787013995 Piccam Uploader (2.1)
 appstore 1160374471 PiPifier (1.2.4)
-appstore 407963104 Pixelmator (3.9)
-appstore 568494494 Pocket (1.8.5)
-appstore 445189367 PopClip (2020.10)
+appstore 407963104 Pixelmator (3.9.2)
+appstore 568494494 Pocket (1.8.6)
+appstore 445189367 PopClip (2020.12)
 appstore 948415170 Pushbullet (4)
 appstore 519421117 RB App Checker Lite (1.1.5)
 appstore 819348619 Revisions (3.0.1)
 appstore 965442961 Screenie (2.2.4)
-appstore 692867256 Simplenote (2.4)
+appstore 692867256 Simplenote (2.9)
 appstore 425955336 Skitch (2.9)
-appstore 1153157709 Speedtest (1.18)
+appstore 1153157709 Speedtest (1.20)
 appstore 405580712 StuffIt Expander (15.0.7)
 appstore 984278082 Tag Editor Free (1.0.8)
 appstore 905944937 Textwell (1.6)
 appstore 425424353 The Unarchiver (4.2.4)
-appstore 485812721 TweetDeck (3.17)
-appstore 1482454543 Twitter (8.44.1)
+appstore 485812721 TweetDeck (3.18)
+appstore 1482454543 Twitter (8.58)
 appstore 414855915 WinArchiver Lite (2.5.3)
 appstore 410628904 Wunderlist (3.4.24)
-appstore 497799835 Xcode (12.2)
+appstore 497799835 Xcode (12.4)
 appstore 492068728 Yummy FTP Pro (1.11.17)
 appstore 530461386 Yummy FTP Watcher (2.2.17)
